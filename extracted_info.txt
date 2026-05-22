@@ -1,0 +1,553 @@
+=== ROUTING CONFIGURATION ===
+Route Match 1 at index 341577:
+()).join("/"),t=this.routeConfig?this.routeConfig.path:"";return`Route(url:'${e}', path:'${t}')`}},Dm=class extends E1{url;constructor(e,t){super(t),this.url=e,yT(this,t)}toString(){return W5(this._root)}};function yT(n,e){e.value._routerState=n,e.children.forEach(t=>yT(n,t))}function W5(n){let e=n.children.length>0?` { ${n.children.map(W5).join(",
+---
+Route Match 2 at index 1539891:
+er;var yw=class n{DOCS_STRUCTURE=[{section:"Home",path:"home",slug:"home"},{section:"Antigravity 2.0",path:"antigravity-2-0",slug:"overview"},{section:"Antigravity 2.0",path:"antigravity-2-0",slug:"getting-started"},{section:"Antigravity 2.0",path:"antigravity-2-0",slug:"build-with-google"},{section:"Antigravity 2.0",path:"antigravity-2-0",slug:"fe
+---
+Route Match 3 at index 1539943:
+th:"home",slug:"home"},{section:"Antigravity 2.0",path:"antigravity-2-0",slug:"overview"},{section:"Antigravity 2.0",path:"antigravity-2-0",slug:"getting-started"},{section:"Antigravity 2.0",path:"antigravity-2-0",slug:"build-with-google"},{section:"Antigravity 2.0",path:"antigravity-2-0",slug:"features"},{section:"Antigravity CLI",path:"cli",slug:
+---
+Route Match 4 at index 1540010:
+-2-0",slug:"overview"},{section:"Antigravity 2.0",path:"antigravity-2-0",slug:"getting-started"},{section:"Antigravity 2.0",path:"antigravity-2-0",slug:"build-with-google"},{section:"Antigravity 2.0",path:"antigravity-2-0",slug:"features"},{section:"Antigravity CLI",path:"cli",slug:"cli-overview"},{section:"Antigravity CLI",path:"cli",slug:"cli-get
+---
+Route Match 5 at index 1540084:
+lug:"getting-started"},{section:"Antigravity 2.0",path:"antigravity-2-0",slug:"build-with-google"},{section:"Antigravity 2.0",path:"antigravity-2-0",slug:"features"},{section:"Antigravity CLI",path:"cli",slug:"cli-overview"},{section:"Antigravity CLI",path:"cli",slug:"cli-getting-started"},{section:"Antigravity CLI",path:"cli",slug:"cli-using"},{se
+---
+Route Match 6 at index 1540160:
+g:"build-with-google"},{section:"Antigravity 2.0",path:"antigravity-2-0",slug:"features"},{section:"Antigravity CLI",path:"cli",slug:"cli-overview"},{section:"Antigravity CLI",path:"cli",slug:"cli-getting-started"},{section:"Antigravity CLI",path:"cli",slug:"cli-using"},{section:"Antigravity CLI",path:"cli",slug:"cli-features"},{section:"Antigravit
+---
+Route Match 7 at index 1540227:
+-2-0",slug:"features"},{section:"Antigravity CLI",path:"cli",slug:"cli-overview"},{section:"Antigravity CLI",path:"cli",slug:"cli-getting-started"},{section:"Antigravity CLI",path:"cli",slug:"cli-using"},{section:"Antigravity CLI",path:"cli",slug:"cli-features"},{section:"Antigravity CLI",path:"cli",slug:"gcli-migration"},{section:"Antigravity SDK"
+---
+Route Match 8 at index 1540286:
+",slug:"cli-overview"},{section:"Antigravity CLI",path:"cli",slug:"cli-getting-started"},{section:"Antigravity CLI",path:"cli",slug:"cli-using"},{section:"Antigravity CLI",path:"cli",slug:"cli-features"},{section:"Antigravity CLI",path:"cli",slug:"gcli-migration"},{section:"Antigravity SDK",path:"sdk",slug:"sdk-overview"},{section:"Antigravity IDE"
+---
+Route Match 9 at index 1540352:
+"cli-getting-started"},{section:"Antigravity CLI",path:"cli",slug:"cli-using"},{section:"Antigravity CLI",path:"cli",slug:"cli-features"},{section:"Antigravity CLI",path:"cli",slug:"gcli-migration"},{section:"Antigravity SDK",path:"sdk",slug:"sdk-overview"},{section:"Antigravity IDE",path:"ide",slug:"ide-overview"},{section:"Antigravity IDE",path:"
+---
+Route Match 10 at index 1540408:
+cli",slug:"cli-using"},{section:"Antigravity CLI",path:"cli",slug:"cli-features"},{section:"Antigravity CLI",path:"cli",slug:"gcli-migration"},{section:"Antigravity SDK",path:"sdk",slug:"sdk-overview"},{section:"Antigravity IDE",path:"ide",slug:"ide-overview"},{section:"Antigravity IDE",path:"ide",slug:"ide-getting-started"},{section:"Antigravity I
+---
+Route Match 11 at index 1540467:
+",slug:"cli-features"},{section:"Antigravity CLI",path:"cli",slug:"gcli-migration"},{section:"Antigravity SDK",path:"sdk",slug:"sdk-overview"},{section:"Antigravity IDE",path:"ide",slug:"ide-overview"},{section:"Antigravity IDE",path:"ide",slug:"ide-getting-started"},{section:"Antigravity IDE",path:"ide",slug:"firebase-studio-migration"},{section:"
+---
+Route Match 12 at index 1540528:
+slug:"gcli-migration"},{section:"Antigravity SDK",path:"sdk",slug:"sdk-overview"},{section:"Antigravity IDE",path:"ide",slug:"ide-overview"},{section:"Antigravity IDE",path:"ide",slug:"ide-getting-started"},{section:"Antigravity IDE",path:"ide",slug:"firebase-studio-migration"},{section:"Antigravity IDE",path:"editor",slug:"editor"},{section:"Antig
+---
+Route Match 13 at index 1540587:
+",slug:"sdk-overview"},{section:"Antigravity IDE",path:"ide",slug:"ide-overview"},{section:"Antigravity IDE",path:"ide",slug:"ide-getting-started"},{section:"Antigravity IDE",path:"ide",slug:"firebase-studio-migration"},{section:"Antigravity IDE",path:"editor",slug:"editor"},{section:"Antigravity IDE",path:"editor",slug:"tab"},{section:"Antigravity
+---
+Route Match 14 at index 1540646:
+",slug:"ide-overview"},{section:"Antigravity IDE",path:"ide",slug:"ide-getting-started"},{section:"Antigravity IDE",path:"ide",slug:"firebase-studio-migration"},{section:"Antigravity IDE",path:"editor",slug:"editor"},{section:"Antigravity IDE",path:"editor",slug:"tab"},{section:"Antigravity IDE",path:"editor",slug:"command"},{section:"Antigravity I
+---
+Route Match 15 at index 1540712:
+"ide-getting-started"},{section:"Antigravity IDE",path:"ide",slug:"firebase-studio-migration"},{section:"Antigravity IDE",path:"editor",slug:"editor"},{section:"Antigravity IDE",path:"editor",slug:"tab"},{section:"Antigravity IDE",path:"editor",slug:"command"},{section:"Antigravity IDE",path:"editor",slug:"agent-side-panel"},{section:"Antigravity I
+---
+Route Match 16 at index 1540784:
+ase-studio-migration"},{section:"Antigravity IDE",path:"editor",slug:"editor"},{section:"Antigravity IDE",path:"editor",slug:"tab"},{section:"Antigravity IDE",path:"editor",slug:"command"},{section:"Antigravity IDE",path:"editor",slug:"agent-side-panel"},{section:"Antigravity IDE",path:"editor",slug:"review-changes-editor"},{section:"Core Concepts 
+---
+Route Match 17 at index 1540840:
+editor",slug:"editor"},{section:"Antigravity IDE",path:"editor",slug:"tab"},{section:"Antigravity IDE",path:"editor",slug:"command"},{section:"Antigravity IDE",path:"editor",slug:"agent-side-panel"},{section:"Antigravity IDE",path:"editor",slug:"review-changes-editor"},{section:"Core Concepts & Features",path:"core-concepts",slug:"projects"},{secti
+---
+Route Match 18 at index 1540893:
+h:"editor",slug:"tab"},{section:"Antigravity IDE",path:"editor",slug:"command"},{section:"Antigravity IDE",path:"editor",slug:"agent-side-panel"},{section:"Antigravity IDE",path:"editor",slug:"review-changes-editor"},{section:"Core Concepts & Features",path:"core-concepts",slug:"projects"},{section:"Core Concepts & Features",path:"agent",slug:"mode
+---
+Route Match 19 at index 1540950:
+ditor",slug:"command"},{section:"Antigravity IDE",path:"editor",slug:"agent-side-panel"},{section:"Antigravity IDE",path:"editor",slug:"review-changes-editor"},{section:"Core Concepts & Features",path:"core-concepts",slug:"projects"},{section:"Core Concepts & Features",path:"agent",slug:"models"},{section:"Core Concepts & Features",path:"agent",slu
+---
+Route Match 20 at index 1541016:
+ug:"agent-side-panel"},{section:"Antigravity IDE",path:"editor",slug:"review-changes-editor"},{section:"Core Concepts & Features",path:"core-concepts",slug:"projects"},{section:"Core Concepts & Features",path:"agent",slug:"models"},{section:"Core Concepts & Features",path:"agent",slug:"agent-settings"},{section:"Core Concepts & Features",path:"agen
+---
+Route Match 21 at index 1541096:
+nges-editor"},{section:"Core Concepts & Features",path:"core-concepts",slug:"projects"},{section:"Core Concepts & Features",path:"agent",slug:"models"},{section:"Core Concepts & Features",path:"agent",slug:"agent-settings"},{section:"Core Concepts & Features",path:"agent",slug:"artifact-review"},{section:"Core Concepts & Features",path:"agent",slug
+---
+Route Match 22 at index 1541170:
+g:"projects"},{section:"Core Concepts & Features",path:"agent",slug:"models"},{section:"Core Concepts & Features",path:"agent",slug:"agent-settings"},{section:"Core Concepts & Features",path:"agent",slug:"artifact-review"},{section:"Core Concepts & Features",path:"agent",slug:"permissions"},{section:"Core Concepts & Features",path:"agent",slug:"sub
+---
+Route Match 23 at index 1541234:
+lug:"models"},{section:"Core Concepts & Features",path:"agent",slug:"agent-settings"},{section:"Core Concepts & Features",path:"agent",slug:"artifact-review"},{section:"Core Concepts & Features",path:"agent",slug:"permissions"},{section:"Core Concepts & Features",path:"agent",slug:"subagents"},{section:"Core Concepts & Features",path:"agent",slug:"
+---
+Route Match 24 at index 1541306:
+nt-settings"},{section:"Core Concepts & Features",path:"agent",slug:"artifact-review"},{section:"Core Concepts & Features",path:"agent",slug:"permissions"},{section:"Core Concepts & Features",path:"agent",slug:"subagents"},{section:"Core Concepts & Features",path:"agent",slug:"strict-mode"},{section:"Core Concepts & Features",path:"tools",slug:"plu
+---
+Route Match 25 at index 1541379:
+fact-review"},{section:"Core Concepts & Features",path:"agent",slug:"permissions"},{section:"Core Concepts & Features",path:"agent",slug:"subagents"},{section:"Core Concepts & Features",path:"agent",slug:"strict-mode"},{section:"Core Concepts & Features",path:"tools",slug:"plugins"},{section:"Core Concepts & Features",path:"tools",slug:"mcp"},{sect
+---
+Route Match 26 at index 1541448:
+permissions"},{section:"Core Concepts & Features",path:"agent",slug:"subagents"},{section:"Core Concepts & Features",path:"agent",slug:"strict-mode"},{section:"Core Concepts & Features",path:"tools",slug:"plugins"},{section:"Core Concepts & Features",path:"tools",slug:"mcp"},{section:"Core Concepts & Features",path:"agent",slug:"skills"},{section:"
+---
+Route Match 27 at index 1541515:
+:"subagents"},{section:"Core Concepts & Features",path:"agent",slug:"strict-mode"},{section:"Core Concepts & Features",path:"tools",slug:"plugins"},{section:"Core Concepts & Features",path:"tools",slug:"mcp"},{section:"Core Concepts & Features",path:"agent",slug:"skills"},{section:"Core Concepts & Features",path:"agent",slug:"rules-workflows"},{sec
+---
+Route Match 28 at index 1541584:
+strict-mode"},{section:"Core Concepts & Features",path:"tools",slug:"plugins"},{section:"Core Concepts & Features",path:"tools",slug:"mcp"},{section:"Core Concepts & Features",path:"agent",slug:"skills"},{section:"Core Concepts & Features",path:"agent",slug:"rules-workflows"},{section:"Core Concepts & Features",path:"tools",slug:"hooks"},{section:"
+---
+Route Match 29 at index 1541649:
+ug:"plugins"},{section:"Core Concepts & Features",path:"tools",slug:"mcp"},{section:"Core Concepts & Features",path:"agent",slug:"skills"},{section:"Core Concepts & Features",path:"agent",slug:"rules-workflows"},{section:"Core Concepts & Features",path:"tools",slug:"hooks"},{section:"Core Concepts & Features",path:"core-concepts",slug:"sidecars"},{
+---
+Route Match 30 at index 1541710:
+",slug:"mcp"},{section:"Core Concepts & Features",path:"agent",slug:"skills"},{section:"Core Concepts & Features",path:"agent",slug:"rules-workflows"},{section:"Core Concepts & Features",path:"tools",slug:"hooks"},{section:"Core Concepts & Features",path:"core-concepts",slug:"sidecars"},{section:"Artifacts",path:"artifacts",slug:"artifacts"},{secti
+---
+Route Match 31 at index 1541774:
+lug:"skills"},{section:"Core Concepts & Features",path:"agent",slug:"rules-workflows"},{section:"Core Concepts & Features",path:"tools",slug:"hooks"},{section:"Core Concepts & Features",path:"core-concepts",slug:"sidecars"},{section:"Artifacts",path:"artifacts",slug:"artifacts"},{section:"Artifacts",path:"artifacts",slug:"task-list"},{section:"Arti
+---
+Route Match 32 at index 1541847:
+s-workflows"},{section:"Core Concepts & Features",path:"tools",slug:"hooks"},{section:"Core Concepts & Features",path:"core-concepts",slug:"sidecars"},{section:"Artifacts",path:"artifacts",slug:"artifacts"},{section:"Artifacts",path:"artifacts",slug:"task-list"},{section:"Artifacts",path:"artifacts",slug:"implementation-plan"},{section:"Artifacts",
+---
+Route Match 33 at index 1541910:
+slug:"hooks"},{section:"Core Concepts & Features",path:"core-concepts",slug:"sidecars"},{section:"Artifacts",path:"artifacts",slug:"artifacts"},{section:"Artifacts",path:"artifacts",slug:"task-list"},{section:"Artifacts",path:"artifacts",slug:"implementation-plan"},{section:"Artifacts",path:"artifacts",slug:"walkthrough"},{section:"Artifacts",path:
+---
+Route Match 34 at index 1541969:
+e-concepts",slug:"sidecars"},{section:"Artifacts",path:"artifacts",slug:"artifacts"},{section:"Artifacts",path:"artifacts",slug:"task-list"},{section:"Artifacts",path:"artifacts",slug:"implementation-plan"},{section:"Artifacts",path:"artifacts",slug:"walkthrough"},{section:"Artifacts",path:"artifacts",slug:"screenshots"},{section:"Artifacts",path:"
+---
+Route Match 35 at index 1542025:
+artifacts",slug:"artifacts"},{section:"Artifacts",path:"artifacts",slug:"task-list"},{section:"Artifacts",path:"artifacts",slug:"implementation-plan"},{section:"Artifacts",path:"artifacts",slug:"walkthrough"},{section:"Artifacts",path:"artifacts",slug:"screenshots"},{section:"Artifacts",path:"artifacts",slug:"browser-recordings"},{section:"Artifact
+---
+Route Match 36 at index 1542081:
+artifacts",slug:"task-list"},{section:"Artifacts",path:"artifacts",slug:"implementation-plan"},{section:"Artifacts",path:"artifacts",slug:"walkthrough"},{section:"Artifacts",path:"artifacts",slug:"screenshots"},{section:"Artifacts",path:"artifacts",slug:"browser-recordings"},{section:"Artifacts",path:"artifacts",slug:"knowledge"},{section:"Agent Ma
+---
+Route Match 37 at index 1542147:
+,slug:"implementation-plan"},{section:"Artifacts",path:"artifacts",slug:"walkthrough"},{section:"Artifacts",path:"artifacts",slug:"screenshots"},{section:"Artifacts",path:"artifacts",slug:"browser-recordings"},{section:"Artifacts",path:"artifacts",slug:"knowledge"},{section:"Agent Manager",path:"agent-manager",slug:"agent-manager"},{section:"Agent 
+---
+Route Match 38 at index 1542205:
+tifacts",slug:"walkthrough"},{section:"Artifacts",path:"artifacts",slug:"screenshots"},{section:"Artifacts",path:"artifacts",slug:"browser-recordings"},{section:"Artifacts",path:"artifacts",slug:"knowledge"},{section:"Agent Manager",path:"agent-manager",slug:"agent-manager"},{section:"Agent Manager",path:"agent-manager",slug:"workspaces"},{section:
+---
+Route Match 39 at index 1542263:
+tifacts",slug:"screenshots"},{section:"Artifacts",path:"artifacts",slug:"browser-recordings"},{section:"Artifacts",path:"artifacts",slug:"knowledge"},{section:"Agent Manager",path:"agent-manager",slug:"agent-manager"},{section:"Agent Manager",path:"agent-manager",slug:"workspaces"},{section:"Agent Manager",path:"agent-manager",slug:"playground"},{s
+---
+Route Match 40 at index 1542328:
+",slug:"browser-recordings"},{section:"Artifacts",path:"artifacts",slug:"knowledge"},{section:"Agent Manager",path:"agent-manager",slug:"agent-manager"},{section:"Agent Manager",path:"agent-manager",slug:"workspaces"},{section:"Agent Manager",path:"agent-manager",slug:"playground"},{section:"Agent Manager",path:"agent-manager",slug:"inbox"},{sectio
+---
+Route Match 41 at index 1542388:
+facts",slug:"knowledge"},{section:"Agent Manager",path:"agent-manager",slug:"agent-manager"},{section:"Agent Manager",path:"agent-manager",slug:"workspaces"},{section:"Agent Manager",path:"agent-manager",slug:"playground"},{section:"Agent Manager",path:"agent-manager",slug:"inbox"},{section:"Agent Manager",path:"agent-manager",slug:"conversation-vi
+---
+Route Match 42 at index 1542456:
+r",slug:"agent-manager"},{section:"Agent Manager",path:"agent-manager",slug:"workspaces"},{section:"Agent Manager",path:"agent-manager",slug:"playground"},{section:"Agent Manager",path:"agent-manager",slug:"inbox"},{section:"Agent Manager",path:"agent-manager",slug:"conversation-view"},{section:"Agent Manager",path:"agent-manager",slug:"browser-sub
+---
+Route Match 43 at index 1542521:
+ager",slug:"workspaces"},{section:"Agent Manager",path:"agent-manager",slug:"playground"},{section:"Agent Manager",path:"agent-manager",slug:"inbox"},{section:"Agent Manager",path:"agent-manager",slug:"conversation-view"},{section:"Agent Manager",path:"agent-manager",slug:"browser-subagent-view"},{section:"Agent Manager",path:"agent-manager",slug:"
+---
+Route Match 44 at index 1542586:
+ager",slug:"playground"},{section:"Agent Manager",path:"agent-manager",slug:"inbox"},{section:"Agent Manager",path:"agent-manager",slug:"conversation-view"},{section:"Agent Manager",path:"agent-manager",slug:"browser-subagent-view"},{section:"Agent Manager",path:"agent-manager",slug:"panes"},{section:"Agent Manager",path:"agent-manager",slug:"revie
+---
+Route Match 45 at index 1542646:
+t-manager",slug:"inbox"},{section:"Agent Manager",path:"agent-manager",slug:"conversation-view"},{section:"Agent Manager",path:"agent-manager",slug:"browser-subagent-view"},{section:"Agent Manager",path:"agent-manager",slug:"panes"},{section:"Agent Manager",path:"agent-manager",slug:"review-changes-manager"},{section:"Agent Manager",path:"agent-man
+---
+Route Match 46 at index 1542718:
+lug:"conversation-view"},{section:"Agent Manager",path:"agent-manager",slug:"browser-subagent-view"},{section:"Agent Manager",path:"agent-manager",slug:"panes"},{section:"Agent Manager",path:"agent-manager",slug:"review-changes-manager"},{section:"Agent Manager",path:"agent-manager",slug:"changes-sidebar"},{section:"Agent Manager",path:"agent-manag
+---
+Route Match 47 at index 1542794:
+"browser-subagent-view"},{section:"Agent Manager",path:"agent-manager",slug:"panes"},{section:"Agent Manager",path:"agent-manager",slug:"review-changes-manager"},{section:"Agent Manager",path:"agent-manager",slug:"changes-sidebar"},{section:"Agent Manager",path:"agent-manager",slug:"terminal"},{section:"Agent Manager",path:"agent-manager",slug:"fil
+---
+Route Match 48 at index 1542854:
+t-manager",slug:"panes"},{section:"Agent Manager",path:"agent-manager",slug:"review-changes-manager"},{section:"Agent Manager",path:"agent-manager",slug:"changes-sidebar"},{section:"Agent Manager",path:"agent-manager",slug:"terminal"},{section:"Agent Manager",path:"agent-manager",slug:"files"},{section:"Browser",path:"browser",slug:"browser"},{sect
+---
+Route Match 49 at index 1542931:
+review-changes-manager"},{section:"Agent Manager",path:"agent-manager",slug:"changes-sidebar"},{section:"Agent Manager",path:"agent-manager",slug:"terminal"},{section:"Agent Manager",path:"agent-manager",slug:"files"},{section:"Browser",path:"browser",slug:"browser"},{section:"Browser",path:"browser",slug:"allowlist-denylist"},{section:"Browser",pa
+---
+Route Match 50 at index 1543001:
+,slug:"changes-sidebar"},{section:"Agent Manager",path:"agent-manager",slug:"terminal"},{section:"Agent Manager",path:"agent-manager",slug:"files"},{section:"Browser",path:"browser",slug:"browser"},{section:"Browser",path:"browser",slug:"allowlist-denylist"},{section:"Browser",path:"browser",slug:"separate-chrome-profile"},{section:"Enterprise",pat
+---
+Route Match 51 at index 1543064:
+anager",slug:"terminal"},{section:"Agent Manager",path:"agent-manager",slug:"files"},{section:"Browser",path:"browser",slug:"browser"},{section:"Browser",path:"browser",slug:"allowlist-denylist"},{section:"Browser",path:"browser",slug:"separate-chrome-profile"},{section:"Enterprise",path:"enterprise",slug:"enterprise"},{section:"Plans",path:"plans"
+---
+Route Match 52 at index 1543118:
+:"agent-manager",slug:"files"},{section:"Browser",path:"browser",slug:"browser"},{section:"Browser",path:"browser",slug:"allowlist-denylist"},{section:"Browser",path:"browser",slug:"separate-chrome-profile"},{section:"Enterprise",path:"enterprise",slug:"enterprise"},{section:"Plans",path:"plans",slug:"plans"},{section:"Settings",path:"settings",slu
+---
+Route Match 53 at index 1543168:
+path:"browser",slug:"browser"},{section:"Browser",path:"browser",slug:"allowlist-denylist"},{section:"Browser",path:"browser",slug:"separate-chrome-profile"},{section:"Enterprise",path:"enterprise",slug:"enterprise"},{section:"Plans",path:"plans",slug:"plans"},{section:"Settings",path:"settings",slug:"settings"},{section:"FAQ",path:"faq",slug:"faq"
+---
+Route Match 54 at index 1543229:
+er",slug:"allowlist-denylist"},{section:"Browser",path:"browser",slug:"separate-chrome-profile"},{section:"Enterprise",path:"enterprise",slug:"enterprise"},{section:"Plans",path:"plans",slug:"plans"},{section:"Settings",path:"settings",slug:"settings"},{section:"FAQ",path:"faq",slug:"faq"}];docsCache=new Map;constructor(){}async getDocPage(e){if(th
+---
+Route Match 55 at index 1543298:
+:"separate-chrome-profile"},{section:"Enterprise",path:"enterprise",slug:"enterprise"},{section:"Plans",path:"plans",slug:"plans"},{section:"Settings",path:"settings",slug:"settings"},{section:"FAQ",path:"faq",slug:"faq"}];docsCache=new Map;constructor(){}async getDocPage(e){if(this.docsCache.has(e))return this.docsCache.get(e)||null;let t=this.DOC
+---
+Route Match 56 at index 1543352:
+:"enterprise",slug:"enterprise"},{section:"Plans",path:"plans",slug:"plans"},{section:"Settings",path:"settings",slug:"settings"},{section:"FAQ",path:"faq",slug:"faq"}];docsCache=new Map;constructor(){}async getDocPage(e){if(this.docsCache.has(e))return this.docsCache.get(e)||null;let t=this.DOCS_STRUCTURE.find(i=>i.slug===e);if(!t)return console.e
+---
+Route Match 57 at index 1543399:
+s",path:"plans",slug:"plans"},{section:"Settings",path:"settings",slug:"settings"},{section:"FAQ",path:"faq",slug:"faq"}];docsCache=new Map;constructor(){}async getDocPage(e){if(this.docsCache.has(e))return this.docsCache.get(e)||null;let t=this.DOCS_STRUCTURE.find(i=>i.slug===e);if(!t)return console.error(`Doc page slug not found: ${e}`),null;try{
+---
+Route Match 58 at index 1543447:
+",path:"settings",slug:"settings"},{section:"FAQ",path:"faq",slug:"faq"}];docsCache=new Map;constructor(){}async getDocPage(e){if(this.docsCache.has(e))return this.docsCache.get(e)||null;let t=this.DOCS_STRUCTURE.find(i=>i.slug===e);if(!t)return console.error(`Doc page slug not found: ${e}`),null;try{let i=await fetch(`/assets/docs/${t.path}/${e}.m
+---
+Route Match 59 at index 1729730:
+var Kw=class n{assets=[{title:"Icon - Full Color",path:"/assets/image/brand/antigravity-icon__full-color.png",filename:"Google-Antigravity-Icon-Full-Color.png",darkBackground:!1},{title:"Icon - One Color",path:"/assets/image/brand/antigravity-icon__one-color.png",filename:"Google-Antigravity-Icon-One-Color.png",darkBackground:!1},{title:"Icon - Whi
+---
+Route Match 60 at index 1729885:
+png",darkBackground:!1},{title:"Icon - One Color",path:"/assets/image/brand/antigravity-icon__one-color.png",filename:"Google-Antigravity-Icon-One-Color.png",darkBackground:!1},{title:"Icon - White",path:"/assets/image/brand/antigravity-icon__white.png",filename:"Google-Antigravity-Icon-White.png",darkBackground:!0},{title:"Lockup - Full Color",pat
+---
+Route Match 61 at index 1730034:
+lor.png",darkBackground:!1},{title:"Icon - White",path:"/assets/image/brand/antigravity-icon__white.png",filename:"Google-Antigravity-Icon-White.png",darkBackground:!0},{title:"Lockup - Full Color",path:"/assets/image/brand/antigravity_product_lockup_full_color.png",filename:"Google-Antigravity-Lockup-Full-Color.png",darkBackground:!1},{title:"Lock
+---
+Route Match 62 at index 1730182:
+",darkBackground:!0},{title:"Lockup - Full Color",path:"/assets/image/brand/antigravity_product_lockup_full_color.png",filename:"Google-Antigravity-Lockup-Full-Color.png",darkBackground:!1},{title:"Lockup - Full Color Reverse",path:"/assets/image/brand/antigravity_product_lockup_full_color_reverse.png",filename:"Google-Antigravity-Lockup-Full-Color
+---
+Route Match 63 at index 1730359:
+ckground:!1},{title:"Lockup - Full Color Reverse",path:"/assets/image/brand/antigravity_product_lockup_full_color_reverse.png",filename:"Google-Antigravity-Lockup-Full-Color-Reverse.png",darkBackground:!0},{title:"Wordmark - Full Color White Text",path:"/assets/image/brand/antigravity_wordmark_horz__full-color-white-text.png",filename:"Google-Antig
+---
+Route Match 64 at index 1730557:
+und:!0},{title:"Wordmark - Full Color White Text",path:"/assets/image/brand/antigravity_wordmark_horz__full-color-white-text.png",filename:"Google-Antigravity-Wordmark-White-Text.png",darkBackground:!0}];static \u0275fac=function(t){return new(t||n)};static \u0275cmp=ve({type:n,selectors:[["app-press"]],decls:4,vars:1,consts:[[1,"assets-grid"],["cl
+---
+Route Match 65 at index 1765538:
+%COMP%]{grid-template-columns:1fr}}"]})};var CH=[{path:"",component:Pw,children:[{path:"",component:Nb,title:"Google Antigravity"},{path:"blog",component:Hb,title:"Google Antigravity Blog"},{path:"blog/:id",component:Ow,title:"Google Antigravity Blog"},{path:"use-cases",component:Lb,title:"Google Antigravity Use Cases"},{path:"use-cases/:id",compon
+---
+Route Match 66 at index 1765570:
+r}}"]})};var CH=[{path:"",component:Pw,children:[{path:"",component:Nb,title:"Google Antigravity"},{path:"blog",component:Hb,title:"Google Antigravity Blog"},{path:"blog/:id",component:Ow,title:"Google Antigravity Blog"},{path:"use-cases",component:Lb,title:"Google Antigravity Use Cases"},{path:"use-cases/:id",component:Bb,title:"Google Antigravity
+---
+Route Match 67 at index 1765620:
+path:"",component:Nb,title:"Google Antigravity"},{path:"blog",component:Hb,title:"Google Antigravity Blog"},{path:"blog/:id",component:Ow,title:"Google Antigravity Blog"},{path:"use-cases",component:Lb,title:"Google Antigravity Use Cases"},{path:"use-cases/:id",component:Bb,title:"Google Antigravity Use Case"},{path:"download",component:Gb,title:"G
+---
+Route Match 68 at index 1765679:
+g",component:Hb,title:"Google Antigravity Blog"},{path:"blog/:id",component:Ow,title:"Google Antigravity Blog"},{path:"use-cases",component:Lb,title:"Google Antigravity Use Cases"},{path:"use-cases/:id",component:Bb,title:"Google Antigravity Use Case"},{path:"download",component:Gb,title:"Google Antigravity Download"},{path:"download/linux",compone
+---
+Route Match 69 at index 1765742:
+d",component:Ow,title:"Google Antigravity Blog"},{path:"use-cases",component:Lb,title:"Google Antigravity Use Cases"},{path:"use-cases/:id",component:Bb,title:"Google Antigravity Use Case"},{path:"download",component:Gb,title:"Google Antigravity Download"},{path:"download/linux",component:Wb,title:"Google Antigravity Download Linux"},{path:"changel
+---
+Route Match 70 at index 1765811:
+mponent:Lb,title:"Google Antigravity Use Cases"},{path:"use-cases/:id",component:Bb,title:"Google Antigravity Use Case"},{path:"download",component:Gb,title:"Google Antigravity Download"},{path:"download/linux",component:Wb,title:"Google Antigravity Download Linux"},{path:"changelog",component:$b,title:"Google Antigravity Changelog"},{path:"pricing
+---
+Route Match 71 at index 1765883:
+omponent:Bb,title:"Google Antigravity Use Case"},{path:"download",component:Gb,title:"Google Antigravity Download"},{path:"download/linux",component:Wb,title:"Google Antigravity Download Linux"},{path:"changelog",component:$b,title:"Google Antigravity Changelog"},{path:"pricing",component:qb,title:"Google Antigravity Pricing"},{path:"support",compo
+---
+Route Match 72 at index 1765950:
+omponent:Gb,title:"Google Antigravity Download"},{path:"download/linux",component:Wb,title:"Google Antigravity Download Linux"},{path:"changelog",component:$b,title:"Google Antigravity Changelog"},{path:"pricing",component:qb,title:"Google Antigravity Pricing"},{path:"support",component:Mw,title:"Google Antigravity Support"},{path:"product",compone
+---
+Route Match 73 at index 1766029:
+nt:Wb,title:"Google Antigravity Download Linux"},{path:"changelog",component:$b,title:"Google Antigravity Changelog"},{path:"pricing",component:qb,title:"Google Antigravity Pricing"},{path:"support",component:Mw,title:"Google Antigravity Support"},{path:"product",component:Dw,title:"Google Antigravity Products"},{path:"product/:id",component:nM,tit
+---
+Route Match 74 at index 1766098:
+mponent:$b,title:"Google Antigravity Changelog"},{path:"pricing",component:qb,title:"Google Antigravity Pricing"},{path:"support",component:Mw,title:"Google Antigravity Support"},{path:"product",component:Dw,title:"Google Antigravity Products"},{path:"product/:id",component:nM,title:"Google Antigravity Product"},{path:"terms",component:kw,title:"Go
+---
+Route Match 75 at index 1766163:
+component:qb,title:"Google Antigravity Pricing"},{path:"support",component:Mw,title:"Google Antigravity Support"},{path:"product",component:Dw,title:"Google Antigravity Products"},{path:"product/:id",component:nM,title:"Google Antigravity Product"},{path:"terms",component:kw,title:"Google Antigravity Terms and Conditions"},{path:"terms-of-service",
+---
+Route Match 76 at index 1766228:
+component:Mw,title:"Google Antigravity Support"},{path:"product",component:Dw,title:"Google Antigravity Products"},{path:"product/:id",component:nM,title:"Google Antigravity Product"},{path:"terms",component:kw,title:"Google Antigravity Terms and Conditions"},{path:"terms-of-service",redirectTo:"terms",pathMatch:"full"},{path:"interest-form",compon
+---
+Route Match 77 at index 1766294:
+omponent:Dw,title:"Google Antigravity Products"},{path:"product/:id",component:nM,title:"Google Antigravity Product"},{path:"terms",component:kw,title:"Google Antigravity Terms and Conditions"},{path:"terms-of-service",redirectTo:"terms",pathMatch:"full"},{path:"interest-form",component:Yw,title:"Google Antigravity for Organizations Interest Form"}
+---
+Route Match 78 at index 1766363:
+component:nM,title:"Google Antigravity Product"},{path:"terms",component:kw,title:"Google Antigravity Terms and Conditions"},{path:"terms-of-service",redirectTo:"terms",pathMatch:"full"},{path:"interest-form",component:Yw,title:"Google Antigravity for Organizations Interest Form"},{path:"auth-success",component:Xw,title:"Google Antigravity Auth Suc
+---
+Route Match 79 at index 1766439:
+title:"Google Antigravity Terms and Conditions"},{path:"terms-of-service",redirectTo:"terms",pathMatch:"full"},{path:"interest-form",component:Yw,title:"Google Antigravity for Organizations Interest Form"},{path:"auth-success",component:Xw,title:"Google Antigravity Auth Success"},{path:"verification-success",component:Zw,title:"Google Antigravity V
+---
+Route Match 80 at index 1766501:
+of-service",redirectTo:"terms",pathMatch:"full"},{path:"interest-form",component:Yw,title:"Google Antigravity for Organizations Interest Form"},{path:"auth-success",component:Xw,title:"Google Antigravity Auth Success"},{path:"verification-success",component:Zw,title:"Google Antigravity Verification Success"},{path:"oauth-callback",component:Qw,titl
+---
+Route Match 81 at index 1766596:
+le Antigravity for Organizations Interest Form"},{path:"auth-success",component:Xw,title:"Google Antigravity Auth Success"},{path:"verification-success",component:Zw,title:"Google Antigravity Verification Success"},{path:"oauth-callback",component:Qw,title:"Google Antigravity CLI Authentication"},{path:"g1-upgrade",canActivate:[fH],children:[]},{pa
+---
+Route Match 82 at index 1766671:
+nent:Xw,title:"Google Antigravity Auth Success"},{path:"verification-success",component:Zw,title:"Google Antigravity Verification Success"},{path:"oauth-callback",component:Qw,title:"Google Antigravity CLI Authentication"},{path:"g1-upgrade",canActivate:[fH],children:[]},{path:"g1-activity",canActivate:[pH],children:[]},{path:"g1-credits",canActiva
+---
+Route Match 83 at index 1766762:
+title:"Google Antigravity Verification Success"},{path:"oauth-callback",component:Qw,title:"Google Antigravity CLI Authentication"},{path:"g1-upgrade",canActivate:[fH],children:[]},{path:"g1-activity",canActivate:[pH],children:[]},{path:"g1-credits",canActivate:[hH],children:[]},{path:"press",component:Kw,title:"Google Antigravity Press Assets"},{p
+---
+Route Match 84 at index 1766845:
+w,title:"Google Antigravity CLI Authentication"},{path:"g1-upgrade",canActivate:[fH],children:[]},{path:"g1-activity",canActivate:[pH],children:[]},{path:"g1-credits",canActivate:[hH],children:[]},{path:"press",component:Kw,title:"Google Antigravity Press Assets"},{path:"releases",component:eM,title:"Google Antigravity Releases"}]},{path:"",compone
+---
+Route Match 85 at index 1766894:
+{path:"g1-upgrade",canActivate:[fH],children:[]},{path:"g1-activity",canActivate:[pH],children:[]},{path:"g1-credits",canActivate:[hH],children:[]},{path:"press",component:Kw,title:"Google Antigravity Press Assets"},{path:"releases",component:eM,title:"Google Antigravity Releases"}]},{path:"",component:Nw,children:[{path:"docs/:page",component:xw,t
+---
+Route Match 86 at index 1766944:
+path:"g1-activity",canActivate:[pH],children:[]},{path:"g1-credits",canActivate:[hH],children:[]},{path:"press",component:Kw,title:"Google Antigravity Press Assets"},{path:"releases",component:eM,title:"Google Antigravity Releases"}]},{path:"",component:Nw,children:[{path:"docs/:page",component:xw,title:"Google Antigravity Documentation"},{path:"do
+---
+Route Match 87 at index 1766993:
+{path:"g1-credits",canActivate:[hH],children:[]},{path:"press",component:Kw,title:"Google Antigravity Press Assets"},{path:"releases",component:eM,title:"Google Antigravity Releases"}]},{path:"",component:Nw,children:[{path:"docs/:page",component:xw,title:"Google Antigravity Documentation"},{path:"docs",redirectTo:"docs/getting-started"},{path:"**"
+---
+Route Match 88 at index 1767061:
+nent:Kw,title:"Google Antigravity Press Assets"},{path:"releases",component:eM,title:"Google Antigravity Releases"}]},{path:"",component:Nw,children:[{path:"docs/:page",component:xw,title:"Google Antigravity Documentation"},{path:"docs",redirectTo:"docs/getting-started"},{path:"**",redirectTo:""}]}];var bH={providers:[E2(),vS(),wT(CH,ST(),ET({scrol
+---
+Route Match 89 at index 1767130:
+ponent:eM,title:"Google Antigravity Releases"}]},{path:"",component:Nw,children:[{path:"docs/:page",component:xw,title:"Google Antigravity Documentation"},{path:"docs",redirectTo:"docs/getting-started"},{path:"**",redirectTo:""}]}];var bH={providers:[E2(),vS(),wT(CH,ST(),ET({scrollPositionRestoration:"top",anchorScrolling:"enabled"}),TT({urlUpdateS
+---
+Route Match 90 at index 1767162:
+ity Releases"}]},{path:"",component:Nw,children:[{path:"docs/:page",component:xw,title:"Google Antigravity Documentation"},{path:"docs",redirectTo:"docs/getting-started"},{path:"**",redirectTo:""}]}];var bH={providers:[E2(),vS(),wT(CH,ST(),ET({scrollPositionRestoration:"top",anchorScrolling:"enabled"}),TT({urlUpdateStrategy:"deferred",defaultQueryP
+---
+Route Match 91 at index 1767236:
+ent:xw,title:"Google Antigravity Documentation"},{path:"docs",redirectTo:"docs/getting-started"},{path:"**",redirectTo:""}]}];var bH={providers:[E2(),vS(),wT(CH,ST(),ET({scrollPositionRestoration:"top",anchorScrolling:"enabled"}),TT({urlUpdateStrategy:"deferred",defaultQueryParamsHandling:"preserve"})),{provide:zb,useValue:{coreLibraryLoader:()=>im
+---
+Route Match 92 at index 1767284:
+,{path:"docs",redirectTo:"docs/getting-started"},{path:"**",redirectTo:""}]}];var bH={providers:[E2(),vS(),wT(CH,ST(),ET({scrollPositionRestoration:"top",anchorScrolling:"enabled"}),TT({urlUpdateStrategy:"deferred",defaultQueryParamsHandling:"preserve"})),{provide:zb,useValue:{coreLibraryLoader:()=>import("./chunk-6IOIOREP.js"),languages:{typescrip
+---
+
+=== PRICING DETAILS ===
+Pricing Match 1 at index 1314574:
+:"/product"},"/use-cases":{title:"Google Antigravity Use Cases",description:"Explore how Antigravity helps various builders",image:"/assets/image/sitecards/sitecard-use-cases.png",url:"/use-cases"},"/pricing":{title:"Google Antigravity Pricing",description:"Plans and pricing for individuals and teams",image:"/assets/image/sitecards/sitecard-plans-and-pricing.png",url:"/pricing"},"/changelog":{title:"Google Antigravity Changelog",description:"See what's new in Google Antigravity",image:"/assets/image/sitecards/sitecard-changelog.png",url:"/changelog"},"/docs":{title:"Google Antigravity Document
+---
+Pricing Match 2 at index 1314610:
+ogle Antigravity Use Cases",description:"Explore how Antigravity helps various builders",image:"/assets/image/sitecards/sitecard-use-cases.png",url:"/use-cases"},"/pricing":{title:"Google Antigravity Pricing",description:"Plans and pricing for individuals and teams",image:"/assets/image/sitecards/sitecard-plans-and-pricing.png",url:"/pricing"},"/changelog":{title:"Google Antigravity Changelog",description:"See what's new in Google Antigravity",image:"/assets/image/sitecards/sitecard-changelog.png",url:"/changelog"},"/docs":{title:"Google Antigravity Documentation",description:"Learn how to use
+---
+Pricing Match 3 at index 1314642:
+ription:"Explore how Antigravity helps various builders",image:"/assets/image/sitecards/sitecard-use-cases.png",url:"/use-cases"},"/pricing":{title:"Google Antigravity Pricing",description:"Plans and pricing for individuals and teams",image:"/assets/image/sitecards/sitecard-plans-and-pricing.png",url:"/pricing"},"/changelog":{title:"Google Antigravity Changelog",description:"See what's new in Google Antigravity",image:"/assets/image/sitecards/sitecard-changelog.png",url:"/changelog"},"/docs":{title:"Google Antigravity Documentation",description:"Learn how to use Google Antigravity",image:"/ass
+---
+Pricing Match 4 at index 1314727:
+ds/sitecard-use-cases.png",url:"/use-cases"},"/pricing":{title:"Google Antigravity Pricing",description:"Plans and pricing for individuals and teams",image:"/assets/image/sitecards/sitecard-plans-and-pricing.png",url:"/pricing"},"/changelog":{title:"Google Antigravity Changelog",description:"See what's new in Google Antigravity",image:"/assets/image/sitecards/sitecard-changelog.png",url:"/changelog"},"/docs":{title:"Google Antigravity Documentation",description:"Learn how to use Google Antigravity",image:"/assets/image/sitecards/sitecard-documentation.png",url:"/docs"},"/support":{title:"Googl
+---
+Pricing Match 5 at index 1314746:
+es.png",url:"/use-cases"},"/pricing":{title:"Google Antigravity Pricing",description:"Plans and pricing for individuals and teams",image:"/assets/image/sitecards/sitecard-plans-and-pricing.png",url:"/pricing"},"/changelog":{title:"Google Antigravity Changelog",description:"See what's new in Google Antigravity",image:"/assets/image/sitecards/sitecard-changelog.png",url:"/changelog"},"/docs":{title:"Google Antigravity Documentation",description:"Learn how to use Google Antigravity",image:"/assets/image/sitecards/sitecard-documentation.png",url:"/docs"},"/support":{title:"Google Antigravity Suppo
+---
+Pricing Match 6 at index 1445744:
+ for your journey",link_text:"Google Antigravity is now available!<i>arrow_forward_ios</i>",link:"/blog/introducing-google-antigravity",footnotes:{"*":{link:"/docs/plans",text:"See FAQ for details"}},pricing_cards:[{label:"Generally Available",title:"For Individuals<br><span class='second-line'>$0/month</span>",description:"A plan for anyone who wants to build.",button_text:"Download",link:"/download",features_title:"Plan includes:",features:["Agent model: access to Gemini 3.5 Flash, Gemini 3.1 Pro, Gemini 3 Flash, Claude Sonnet & Opus 4.6, gpt-oss-120b","Unlimited Tab completions","Unlimited 
+---
+Pricing Match 7 at index 1447297:
+orm",button_text:"Get started",link:"/docs/enterprise",features_title:"Now Available:",features:["Access under Google Cloud Terms of Service","Google Cloud Project Integration","Consumption-Based API Pricing"]}]};var gle=(n,e)=>e.title;function mle(n,e){if(n&1&&(b(0,"label",11),R(1),w()),n&2){let t=L().$implicit;y(),ce(t.label)}}function _le(n,e){if(n&1&&G(0,"app-button",17),n&2){let t=L().$implicit;N("routerLink",t.link)("buttonText",t.button_text)}}function vle(n,e){if(n&1&&G(0,"app-button",18),n&2){let t=L().$implicit;N("routerLink",t.link)("buttonText",t.button_text)}}function yle(n,e){if(
+---
+Pricing Match 8 at index 1448741:
+dary_button_text&&t.secondary_link?11:-1),y(),Me(t.features.length>0?12:-1)}}var qb=class n{constructor(e,t){this.titleService=e;this.metaTagService=t;this.titleService.setTitle("Google Antigravity - Pricing"),this.metaTagService.updateMetaTagsByRoute("/pricing")}pricingData=m7;typedHeader;ngOnInit(){this.pricingData.pricing_cards=this.pricingData.pricing_cards.map(e=>Ht(Be({},e),{features:e.features.map(t=>this.parseFeature(t))}))}ngAfterViewInit(){let e=ut.timeline();this.typedHeader.forEach(t=>{t.startTyping(e)})}parseFeature(e){if(!this.pricingData.footnotes)return e;let t=e;for(let[i,r]of
+---
+Pricing Match 9 at index 1448795:
+tures.length>0?12:-1)}}var qb=class n{constructor(e,t){this.titleService=e;this.metaTagService=t;this.titleService.setTitle("Google Antigravity - Pricing"),this.metaTagService.updateMetaTagsByRoute("/pricing")}pricingData=m7;typedHeader;ngOnInit(){this.pricingData.pricing_cards=this.pricingData.pricing_cards.map(e=>Ht(Be({},e),{features:e.features.map(t=>this.parseFeature(t))}))}ngAfterViewInit(){let e=ut.timeline();this.typedHeader.forEach(t=>{t.startTyping(e)})}parseFeature(e){if(!this.pricingData.footnotes)return e;let t=e;for(let[i,r]of Object.entries(this.pricingData.footnotes)){let o=new
+---
+Pricing Match 10 at index 1448805:
+th>0?12:-1)}}var qb=class n{constructor(e,t){this.titleService=e;this.metaTagService=t;this.titleService.setTitle("Google Antigravity - Pricing"),this.metaTagService.updateMetaTagsByRoute("/pricing")}pricingData=m7;typedHeader;ngOnInit(){this.pricingData.pricing_cards=this.pricingData.pricing_cards.map(e=>Ht(Be({},e),{features:e.features.map(t=>this.parseFeature(t))}))}ngAfterViewInit(){let e=ut.timeline();this.typedHeader.forEach(t=>{t.startTyping(e)})}parseFeature(e){if(!this.pricingData.footnotes)return e;let t=e;for(let[i,r]of Object.entries(this.pricingData.footnotes)){let o=new RegExp(`\
+---
+Pricing Match 11 at index 1448848:
+){this.titleService=e;this.metaTagService=t;this.titleService.setTitle("Google Antigravity - Pricing"),this.metaTagService.updateMetaTagsByRoute("/pricing")}pricingData=m7;typedHeader;ngOnInit(){this.pricingData.pricing_cards=this.pricingData.pricing_cards.map(e=>Ht(Be({},e),{features:e.features.map(t=>this.parseFeature(t))}))}ngAfterViewInit(){let e=ut.timeline();this.typedHeader.forEach(t=>{t.startTyping(e)})}parseFeature(e){if(!this.pricingData.footnotes)return e;let t=e;for(let[i,r]of Object.entries(this.pricingData.footnotes)){let o=new RegExp(`\\${i}`,"g"),s=`<a href="${r.link}" title="$
+---
+Pricing Match 12 at index 1448860:
+Service=e;this.metaTagService=t;this.titleService.setTitle("Google Antigravity - Pricing"),this.metaTagService.updateMetaTagsByRoute("/pricing")}pricingData=m7;typedHeader;ngOnInit(){this.pricingData.pricing_cards=this.pricingData.pricing_cards.map(e=>Ht(Be({},e),{features:e.features.map(t=>this.parseFeature(t))}))}ngAfterViewInit(){let e=ut.timeline();this.typedHeader.forEach(t=>{t.startTyping(e)})}parseFeature(e){if(!this.pricingData.footnotes)return e;let t=e;for(let[i,r]of Object.entries(this.pricingData.footnotes)){let o=new RegExp(`\\${i}`,"g"),s=`<a href="${r.link}" title="${r.text}" cl
+---
+Pricing Match 13 at index 1448879:
+TagService=t;this.titleService.setTitle("Google Antigravity - Pricing"),this.metaTagService.updateMetaTagsByRoute("/pricing")}pricingData=m7;typedHeader;ngOnInit(){this.pricingData.pricing_cards=this.pricingData.pricing_cards.map(e=>Ht(Be({},e),{features:e.features.map(t=>this.parseFeature(t))}))}ngAfterViewInit(){let e=ut.timeline();this.typedHeader.forEach(t=>{t.startTyping(e)})}parseFeature(e){if(!this.pricingData.footnotes)return e;let t=e;for(let[i,r]of Object.entries(this.pricingData.footnotes)){let o=new RegExp(`\\${i}`,"g"),s=`<a href="${r.link}" title="${r.text}" class="footnote-link"
+---
+Pricing Match 14 at index 1448891:
+;this.titleService.setTitle("Google Antigravity - Pricing"),this.metaTagService.updateMetaTagsByRoute("/pricing")}pricingData=m7;typedHeader;ngOnInit(){this.pricingData.pricing_cards=this.pricingData.pricing_cards.map(e=>Ht(Be({},e),{features:e.features.map(t=>this.parseFeature(t))}))}ngAfterViewInit(){let e=ut.timeline();this.typedHeader.forEach(t=>{t.startTyping(e)})}parseFeature(e){if(!this.pricingData.footnotes)return e;let t=e;for(let[i,r]of Object.entries(this.pricingData.footnotes)){let o=new RegExp(`\\${i}`,"g"),s=`<a href="${r.link}" title="${r.text}" class="footnote-link">${i}</a>`;t
+---
+Pricing Match 15 at index 1449088:
+ta.pricing_cards.map(e=>Ht(Be({},e),{features:e.features.map(t=>this.parseFeature(t))}))}ngAfterViewInit(){let e=ut.timeline();this.typedHeader.forEach(t=>{t.startTyping(e)})}parseFeature(e){if(!this.pricingData.footnotes)return e;let t=e;for(let[i,r]of Object.entries(this.pricingData.footnotes)){let o=new RegExp(`\\${i}`,"g"),s=`<a href="${r.link}" title="${r.text}" class="footnote-link">${i}</a>`;t=t.replace(o,s)}return t}static \u0275fac=function(t){return new(t||n)(Oe(Yn),Oe(Ai))};static \u0275cmp=ve({type:n,selectors:[["app-pricing"]],viewQuery:function(t,i){if(t&1&&ge(Mn,5),t&2){let r;ue
+---
+Pricing Match 16 at index 1449162:
+Feature(t))}))}ngAfterViewInit(){let e=ut.timeline();this.typedHeader.forEach(t=>{t.startTyping(e)})}parseFeature(e){if(!this.pricingData.footnotes)return e;let t=e;for(let[i,r]of Object.entries(this.pricingData.footnotes)){let o=new RegExp(`\\${i}`,"g"),s=`<a href="${r.link}" title="${r.text}" class="footnote-link">${i}</a>`;t=t.replace(o,s)}return t}static \u0275fac=function(t){return new(t||n)(Oe(Yn),Oe(Ai))};static \u0275cmp=ve({type:n,selectors:[["app-pricing"]],viewQuery:function(t,i){if(t&1&&ge(Mn,5),t&2){let r;ue(r=de())&&(i.typedHeader=r)}},decls:11,vars:8,consts:[["header",""],[1,"pr
+---
+Pricing Match 17 at index 1449423:
+href="${r.link}" title="${r.text}" class="footnote-link">${i}</a>`;t=t.replace(o,s)}return t}static \u0275fac=function(t){return new(t||n)(Oe(Yn),Oe(Ai))};static \u0275cmp=ve({type:n,selectors:[["app-pricing"]],viewQuery:function(t,i){if(t&1&&ge(Mn,5),t&2){let r;ue(r=de())&&(i.typedHeader=r)}},decls:11,vars:8,consts:[["header",""],[1,"pricing"],[1,"grid-container"],[1,"heading-container"],[1,"particle-container"],["theme","light",3,"ringWidth","ringWidth2","particlesScale","ringDisplacement","density"],[1,"heading-content"],["augmentedClasses","heading-3",3,"text","initialDelay","endDelay"],[1
+---
+Pricing Match 18 at index 1449560:
+)(Oe(Yn),Oe(Ai))};static \u0275cmp=ve({type:n,selectors:[["app-pricing"]],viewQuery:function(t,i){if(t&1&&ge(Mn,5),t&2){let r;ue(r=de())&&(i.typedHeader=r)}},decls:11,vars:8,consts:[["header",""],[1,"pricing"],[1,"grid-container"],[1,"heading-container"],[1,"particle-container"],["theme","light",3,"ringWidth","ringWidth2","particlesScale","ringDisplacement","density"],[1,"heading-content"],["augmentedClasses","heading-3",3,"text","initialDelay","endDelay"],[1,"cards-container"],[1,"pricing-card"],[1,"pricing-card-header"],[1,"small"],[1,"heading-6",3,"innerHTML"],[1,"pricing-description-wrappe
+---
+Pricing Match 19 at index 1449847:
+","light",3,"ringWidth","ringWidth2","particlesScale","ringDisplacement","density"],[1,"heading-content"],["augmentedClasses","heading-3",3,"text","initialDelay","endDelay"],[1,"cards-container"],[1,"pricing-card"],[1,"pricing-card-header"],[1,"small"],[1,"heading-6",3,"innerHTML"],[1,"pricing-description-wrapper"],[1,"body"],[1,"card-content"],[1,"button-group"],["variant","primary","analyticsEvent","download-cta","moduleName","Pricing","pagePosition","body",3,"routerLink","buttonText"],["variant","secondary",3,"routerLink","buttonText"],["variant","secondary","target","_blank",3,"href","butt
+---
+Pricing Match 20 at index 1449866:
+dth","ringWidth2","particlesScale","ringDisplacement","density"],[1,"heading-content"],["augmentedClasses","heading-3",3,"text","initialDelay","endDelay"],[1,"cards-container"],[1,"pricing-card"],[1,"pricing-card-header"],[1,"small"],[1,"heading-6",3,"innerHTML"],[1,"pricing-description-wrapper"],[1,"body"],[1,"card-content"],[1,"button-group"],["variant","primary","analyticsEvent","download-cta","moduleName","Pricing","pagePosition","body",3,"routerLink","buttonText"],["variant","secondary",3,"routerLink","buttonText"],["variant","secondary","target","_blank",3,"href","buttonText"],[1,"featur
+---
+Pricing Match 21 at index 1449934:
+"heading-content"],["augmentedClasses","heading-3",3,"text","initialDelay","endDelay"],[1,"cards-container"],[1,"pricing-card"],[1,"pricing-card-header"],[1,"small"],[1,"heading-6",3,"innerHTML"],[1,"pricing-description-wrapper"],[1,"body"],[1,"card-content"],[1,"button-group"],["variant","primary","analyticsEvent","download-cta","moduleName","Pricing","pagePosition","body",3,"routerLink","buttonText"],["variant","secondary",3,"routerLink","buttonText"],["variant","secondary","target","_blank",3,"href","buttonText"],[1,"feature-title","call-to-action--nav"],[1,"code"],[1,"caption",3,"innerHTML
+---
+Pricing Match 22 at index 1450080:
+eader"],[1,"small"],[1,"heading-6",3,"innerHTML"],[1,"pricing-description-wrapper"],[1,"body"],[1,"card-content"],[1,"button-group"],["variant","primary","analyticsEvent","download-cta","moduleName","Pricing","pagePosition","body",3,"routerLink","buttonText"],["variant","secondary",3,"routerLink","buttonText"],["variant","secondary","target","_blank",3,"href","buttonText"],[1,"feature-title","call-to-action--nav"],[1,"code"],[1,"caption",3,"innerHTML"]],template:function(t,i){t&1&&(b(0,"div",1)(1,"div",2)(2,"div",3)(3,"div",4),G(4,"landing-main-particles-component",5),w(),b(5,"div",6),G(6,"typ
+---
+Pricing Match 23 at index 1450678:
+yped-header",7,0),w()(),b(8,"div",8),ke(9,ble,13,6,"div",9,gle),w()()()),t&2&&(y(4),N("ringWidth",.006)("ringWidth2",.107)("particlesScale",.59)("ringDisplacement",.53)("density",230),y(2),N("text",i.pricingData.title)("initialDelay",.25)("endDelay",1),y(3),Ne(i.pricingData.pricing_cards))},dependencies:[hn,No,Mn,rn],styles:[".pricing[_ngcontent-%COMP%]{padding-bottom:var(--space-7xl);border-bottom:1px solid var(--divider);overflow:hidden}.pricing[_ngcontent-%COMP%]   .heading-container[_ngcontent-%COMP%]{text-align:center;position:relative;padding-bottom:80px;padding-top:205px;width:100vw;lef
+---
+Pricing Match 24 at index 1450741:
+,w()()()),t&2&&(y(4),N("ringWidth",.006)("ringWidth2",.107)("particlesScale",.59)("ringDisplacement",.53)("density",230),y(2),N("text",i.pricingData.title)("initialDelay",.25)("endDelay",1),y(3),Ne(i.pricingData.pricing_cards))},dependencies:[hn,No,Mn,rn],styles:[".pricing[_ngcontent-%COMP%]{padding-bottom:var(--space-7xl);border-bottom:1px solid var(--divider);overflow:hidden}.pricing[_ngcontent-%COMP%]   .heading-container[_ngcontent-%COMP%]{text-align:center;position:relative;padding-bottom:80px;padding-top:205px;width:100vw;left:50%;transform:translate(-50%);overflow:hidden}.pricing[_ngcon
+---
+Pricing Match 25 at index 1450753:
+2&&(y(4),N("ringWidth",.006)("ringWidth2",.107)("particlesScale",.59)("ringDisplacement",.53)("density",230),y(2),N("text",i.pricingData.title)("initialDelay",.25)("endDelay",1),y(3),Ne(i.pricingData.pricing_cards))},dependencies:[hn,No,Mn,rn],styles:[".pricing[_ngcontent-%COMP%]{padding-bottom:var(--space-7xl);border-bottom:1px solid var(--divider);overflow:hidden}.pricing[_ngcontent-%COMP%]   .heading-container[_ngcontent-%COMP%]{text-align:center;position:relative;padding-bottom:80px;padding-top:205px;width:100vw;left:50%;transform:translate(-50%);overflow:hidden}.pricing[_ngcontent-%COMP%]
+---
+Pricing Match 26 at index 1450807:
+clesScale",.59)("ringDisplacement",.53)("density",230),y(2),N("text",i.pricingData.title)("initialDelay",.25)("endDelay",1),y(3),Ne(i.pricingData.pricing_cards))},dependencies:[hn,No,Mn,rn],styles:[".pricing[_ngcontent-%COMP%]{padding-bottom:var(--space-7xl);border-bottom:1px solid var(--divider);overflow:hidden}.pricing[_ngcontent-%COMP%]   .heading-container[_ngcontent-%COMP%]{text-align:center;position:relative;padding-bottom:80px;padding-top:205px;width:100vw;left:50%;transform:translate(-50%);overflow:hidden}.pricing[_ngcontent-%COMP%]   .heading-container[_ngcontent-%COMP%]   .particle-c
+---
+Pricing Match 27 at index 1450922:
+elay",1),y(3),Ne(i.pricingData.pricing_cards))},dependencies:[hn,No,Mn,rn],styles:[".pricing[_ngcontent-%COMP%]{padding-bottom:var(--space-7xl);border-bottom:1px solid var(--divider);overflow:hidden}.pricing[_ngcontent-%COMP%]   .heading-container[_ngcontent-%COMP%]{text-align:center;position:relative;padding-bottom:80px;padding-top:205px;width:100vw;left:50%;transform:translate(-50%);overflow:hidden}.pricing[_ngcontent-%COMP%]   .heading-container[_ngcontent-%COMP%]   .particle-container[_ngcontent-%COMP%]{position:absolute;inset:0;z-index:0;min-height:100svh}.pricing[_ngcontent-%COMP%]   .he
+---
+Pricing Match 28 at index 1451127:
+ng[_ngcontent-%COMP%]   .heading-container[_ngcontent-%COMP%]{text-align:center;position:relative;padding-bottom:80px;padding-top:205px;width:100vw;left:50%;transform:translate(-50%);overflow:hidden}.pricing[_ngcontent-%COMP%]   .heading-container[_ngcontent-%COMP%]   .particle-container[_ngcontent-%COMP%]{position:absolute;inset:0;z-index:0;min-height:100svh}.pricing[_ngcontent-%COMP%]   .heading-container[_ngcontent-%COMP%]   .heading-content[_ngcontent-%COMP%]{position:relative;max-width:624px;margin:0 auto}.pricing[_ngcontent-%COMP%]   .heading-container[_ngcontent-%COMP%]   a[_ngcontent-%
+---
+Pricing Match 29 at index 1451290:
+orm:translate(-50%);overflow:hidden}.pricing[_ngcontent-%COMP%]   .heading-container[_ngcontent-%COMP%]   .particle-container[_ngcontent-%COMP%]{position:absolute;inset:0;z-index:0;min-height:100svh}.pricing[_ngcontent-%COMP%]   .heading-container[_ngcontent-%COMP%]   .heading-content[_ngcontent-%COMP%]{position:relative;max-width:624px;margin:0 auto}.pricing[_ngcontent-%COMP%]   .heading-container[_ngcontent-%COMP%]   a[_ngcontent-%COMP%] {padding-top:36px;display:inline-flex;align-items:center;justify-content:center}.pricing[_ngcontent-%COMP%]   .heading-container[_ngcontent-%COMP%]   a[_ngc
+---
+Pricing Match 30 at index 1451444:
+absolute;inset:0;z-index:0;min-height:100svh}.pricing[_ngcontent-%COMP%]   .heading-container[_ngcontent-%COMP%]   .heading-content[_ngcontent-%COMP%]{position:relative;max-width:624px;margin:0 auto}.pricing[_ngcontent-%COMP%]   .heading-container[_ngcontent-%COMP%]   a[_ngcontent-%COMP%] {padding-top:36px;display:inline-flex;align-items:center;justify-content:center}.pricing[_ngcontent-%COMP%]   .heading-container[_ngcontent-%COMP%]   a[_ngcontent-%COMP%]  i{font-family:Google Symbols;font-size:14px;vertical-align:middle;margin-left:5px;display:inline-block;font-style:normal}.pricing[_ngconte
+---
+
+=== CHANGELOG DETAILS ===
+Changelog Match 1 at index 1314758:
+"/use-cases"},"/pricing":{title:"Google Antigravity Pricing",description:"Plans and pricing for individuals and teams",image:"/assets/image/sitecards/sitecard-plans-and-pricing.png",url:"/pricing"},"/changelog":{title:"Google Antigravity Changelog",description:"See what's new in Google Antigravity",image:"/assets/image/sitecards/sitecard-changelog.png",url:"/changelog"},"/docs":{title:"Google Antigravity Documentation",description:"Learn how to use Google Antigravity",image:"/assets/image/sitecards/sitecard-documentation.png",url:"/docs"},"/support":{title:"Google Antigravity Support",descript
+---
+Changelog Match 2 at index 1314796:
+e Antigravity Pricing",description:"Plans and pricing for individuals and teams",image:"/assets/image/sitecards/sitecard-plans-and-pricing.png",url:"/pricing"},"/changelog":{title:"Google Antigravity Changelog",description:"See what's new in Google Antigravity",image:"/assets/image/sitecards/sitecard-changelog.png",url:"/changelog"},"/docs":{title:"Google Antigravity Documentation",description:"Learn how to use Google Antigravity",image:"/assets/image/sitecards/sitecard-documentation.png",url:"/docs"},"/support":{title:"Google Antigravity Support",description:"Get help with Google Antigravity"
+---
+Changelog Match 3 at index 1314898:
+sitecards/sitecard-plans-and-pricing.png",url:"/pricing"},"/changelog":{title:"Google Antigravity Changelog",description:"See what's new in Google Antigravity",image:"/assets/image/sitecards/sitecard-changelog.png",url:"/changelog"},"/docs":{title:"Google Antigravity Documentation",description:"Learn how to use Google Antigravity",image:"/assets/image/sitecards/sitecard-documentation.png",url:"/docs"},"/support":{title:"Google Antigravity Support",description:"Get help with Google Antigravity",image:"/assets/image/sitecards/sitecard-support.png",url:"/support"}}[e]||{title:"Google Antigravity"
+---
+Changelog Match 4 at index 1314919:
+ans-and-pricing.png",url:"/pricing"},"/changelog":{title:"Google Antigravity Changelog",description:"See what's new in Google Antigravity",image:"/assets/image/sitecards/sitecard-changelog.png",url:"/changelog"},"/docs":{title:"Google Antigravity Documentation",description:"Learn how to use Google Antigravity",image:"/assets/image/sitecards/sitecard-documentation.png",url:"/docs"},"/support":{title:"Google Antigravity Support",description:"Get help with Google Antigravity",image:"/assets/image/sitecards/sitecard-support.png",url:"/support"}}[e]||{title:"Google Antigravity",description:this.def
+---
+Changelog Match 5 at index 1412656:
+oter-links[_ngcontent-%COMP%]   a[_ngcontent-%COMP%]:hover{text-decoration:underline}@media (max-width: 767px){.header[_ngcontent-%COMP%]{grid-column:1/span 4}}"]})};var h7={title:"Google Antigravity Changelog",buttons:[{link:"/docs",text:"View docs",target:"_self",type:"routerLink"},{link:"https://x.com/antigravity",text:"Follow us on X",target:"_blank",type:"href"}],engineSections:[{version:"2.0.1<br>May 19, 2026",description:"AGY 2.0 Bug Fixes",accordion:{changes:"<p>Antigravity 2.0 Launch bug fixes.</p>",items:[{title:"Improvements",accordion_items:[]},{title:"Fixes",accordion_items:[{text
+---
+Changelog Match 6 at index 1427045:
+L",t.accordion.changes,Zt),y(2),Ne(t.accordion.items)}}ut.registerPlugin(xt);var $b=class n{constructor(e,t){this.titleService=e;this.metaTagService=t;this.titleService.setTitle("Google Antigravity - Changelog"),this.metaTagService.updateMetaTagsByRoute("/changelog")}pinElements;referenceElements;datePinElements;referenceDate;typedHeader;changelogData=h7;activeTab="engine";scrollTriggers=[];ngAfterViewInit(){let e=ut.timeline();this.typedHeader.forEach(r=>{r.startTyping(e)});let t=document.querySelectorAll(".changes img"),i=0;t.forEach(r=>{r.complete?i++:r.addEventListener("load",()=>{i++,i===
+---
+Changelog Match 7 at index 1427101:
+t.registerPlugin(xt);var $b=class n{constructor(e,t){this.titleService=e;this.metaTagService=t;this.titleService.setTitle("Google Antigravity - Changelog"),this.metaTagService.updateMetaTagsByRoute("/changelog")}pinElements;referenceElements;datePinElements;referenceDate;typedHeader;changelogData=h7;activeTab="engine";scrollTriggers=[];ngAfterViewInit(){let e=ut.timeline();this.typedHeader.forEach(r=>{r.startTyping(e)});let t=document.querySelectorAll(".changes img"),i=0;t.forEach(r=>{r.complete?i++:r.addEventListener("load",()=>{i++,i===t.length&&this.setupGSAP()})}),i===t.length&&this.setupG
+---
+Changelog Match 8 at index 1427185:
+gService=t;this.titleService.setTitle("Google Antigravity - Changelog"),this.metaTagService.updateMetaTagsByRoute("/changelog")}pinElements;referenceElements;datePinElements;referenceDate;typedHeader;changelogData=h7;activeTab="engine";scrollTriggers=[];ngAfterViewInit(){let e=ut.timeline();this.typedHeader.forEach(r=>{r.startTyping(e)});let t=document.querySelectorAll(".changes img"),i=0;t.forEach(r=>{r.complete?i++:r.addEventListener("load",()=>{i++,i===t.length&&this.setupGSAP()})}),i===t.length&&this.setupGSAP(),this.setupAccordionRefresh()}setupGSAP(){let e=this.pinElements.toArray().map(
+---
+Changelog Match 9 at index 1428825:
+,()=>{requestAnimationFrame(()=>{xt.refresh()})})})}ngOnDestroy(){this.clearScrollTriggers()}static \u0275fac=function(t){return new(t||n)(Oe(Yn),Oe(Ai))};static \u0275cmp=ve({type:n,selectors:[["app-changelog"]],viewQuery:function(t,i){if(t&1&&(ge(ole,5,qt),ge(sle,5,qt),ge(ale,5,qt),ge(lle,5,qt),ge(Mn,5)),t&2){let r;ue(r=de())&&(i.pinElements=r),ue(r=de())&&(i.referenceElements=r),ue(r=de())&&(i.datePinElements=r),ue(r=de())&&(i.referenceDate=r),ue(r=de())&&(i.typedHeader=r)}},decls:28,vars:8,consts:[["header",""],["referenceDate",""],["datePinElement",""],["referenceElement",""],["pinElement
+---
+Changelog Match 10 at index 1429252:
+))&&(i.referenceDate=r),ue(r=de())&&(i.typedHeader=r)}},decls:28,vars:8,consts:[["header",""],["referenceDate",""],["datePinElement",""],["referenceElement",""],["pinElement",""],[1,"grid-container","changelog"],[1,"heading-container"],[1,"heading-content"],["augmentedClasses","heading-3",3,"text","initialDelay","endDelay","cursorPersists"],[1,"buttons-container"],["variant","secondary",3,"href","link","buttonText","target"],[1,"changelog-tabs"],[1,"tab-button",3,"click"],[1,"rollout-notice"],[1,"rollout-notice-icon"],[1,"body"],[1,"special-grid"],[1,"grid-head","grid-container"],[1,"grid-body
+---
+Changelog Match 11 at index 1429485:
+"],[1,"heading-content"],["augmentedClasses","heading-3",3,"text","initialDelay","endDelay","cursorPersists"],[1,"buttons-container"],["variant","secondary",3,"href","link","buttonText","target"],[1,"changelog-tabs"],[1,"tab-button",3,"click"],[1,"rollout-notice"],[1,"rollout-notice-icon"],[1,"body"],[1,"special-grid"],[1,"grid-head","grid-container"],[1,"grid-body","grid-container"],[1,"version"],[1,"body",3,"innerHTML"],[1,"description","main-left-container"],[1,"heading-7","col-lg-4",3,"innerHTML"],[1,"accordion","body"],[1,"changes",3,"innerHTML"],[1,"expandable-items"],[1,"caption",3,"inn
+---
+Changelog Match 12 at index 1430621:
+rs."),w()(),b(18,"section",16)(19,"div",17)(20,"p",15),R(21,"Version"),w(),b(22,"p",15),R(23,"Description"),w()(),G(24,"hr"),b(25,"div",18),ke(26,ple,13,3,null,null,cle),w()()()}t&2&&(y(3),N("text",i.changelogData.title)("initialDelay",.25)("endDelay",1)("cursorPersists",!0),y(3),Ne(i.changelogData.buttons),y(3),Tt("active",i.activeTab==="engine"),y(2),Tt("active",i.activeTab==="ide"),y(15),Ne(i.activeTab==="engine"?i.changelogData.engineSections:i.changelogData.ideSections))},dependencies:[hn,Mn],styles:['[_ngcontent-%COMP%]:root{--palette-grey-900: #2F3034;--palette-grey-800: #45474D;--palet
+---
+Changelog Match 13 at index 1430707:
+),R(23,"Description"),w()(),G(24,"hr"),b(25,"div",18),ke(26,ple,13,3,null,null,cle),w()()()}t&2&&(y(3),N("text",i.changelogData.title)("initialDelay",.25)("endDelay",1)("cursorPersists",!0),y(3),Ne(i.changelogData.buttons),y(3),Tt("active",i.activeTab==="engine"),y(2),Tt("active",i.activeTab==="ide"),y(15),Ne(i.activeTab==="engine"?i.changelogData.engineSections:i.changelogData.ideSections))},dependencies:[hn,Mn],styles:['[_ngcontent-%COMP%]:root{--palette-grey-900: #2F3034;--palette-grey-800: #45474D;--palette-grey-50: #E6EAF0;--palette-grey-0: #FFFFFF;--palette-grey-1000: #212226;--palette-g
+---
+Changelog Match 14 at index 1430843:
+initialDelay",.25)("endDelay",1)("cursorPersists",!0),y(3),Ne(i.changelogData.buttons),y(3),Tt("active",i.activeTab==="engine"),y(2),Tt("active",i.activeTab==="ide"),y(15),Ne(i.activeTab==="engine"?i.changelogData.engineSections:i.changelogData.ideSections))},dependencies:[hn,Mn],styles:['[_ngcontent-%COMP%]:root{--palette-grey-900: #2F3034;--palette-grey-800: #45474D;--palette-grey-50: #E6EAF0;--palette-grey-0: #FFFFFF;--palette-grey-1000: #212226;--palette-grey-20: #EFF2F7;--palette-grey-1200: #121317;--palette-grey-1100: #18191D;--palette-grey-10: #F8F9FC;--palette-grey-100: #E1E6EC;--palet
+---
+Changelog Match 15 at index 1430874:
+)("cursorPersists",!0),y(3),Ne(i.changelogData.buttons),y(3),Tt("active",i.activeTab==="engine"),y(2),Tt("active",i.activeTab==="ide"),y(15),Ne(i.activeTab==="engine"?i.changelogData.engineSections:i.changelogData.ideSections))},dependencies:[hn,Mn],styles:['[_ngcontent-%COMP%]:root{--palette-grey-900: #2F3034;--palette-grey-800: #45474D;--palette-grey-50: #E6EAF0;--palette-grey-0: #FFFFFF;--palette-grey-1000: #212226;--palette-grey-20: #EFF2F7;--palette-grey-1200: #121317;--palette-grey-1100: #18191D;--palette-grey-10: #F8F9FC;--palette-grey-100: #E1E6EC;--palette-grey-200: #CDD4DC;--palette-
+---
+Changelog Match 16 at index 1436104:
+rey-400-rgb), .2);--divider: var(--theme-outline-outline-variant)}.main-left-container[_ngcontent-%COMP%]{display:grid}.main-left-container[_ngcontent-%COMP%] > *[_ngcontent-%COMP%]{align-self:start}.changelog[_ngcontent-%COMP%]{padding-top:140px;padding-bottom:var(--space-7xl);border-bottom:1px solid var(--divider);overflow-x:hidden}.changelog[_ngcontent-%COMP%]   .heading-container[_ngcontent-%COMP%]{display:flex;justify-content:space-between;margin-bottom:60px}.changelog[_ngcontent-%COMP%]   .heading-container[_ngcontent-%COMP%]   .heading-content[_ngcontent-%COMP%]{padding-bottom:101px;mar
+---
+Changelog Match 17 at index 1436241:
+er[_ngcontent-%COMP%] > *[_ngcontent-%COMP%]{align-self:start}.changelog[_ngcontent-%COMP%]{padding-top:140px;padding-bottom:var(--space-7xl);border-bottom:1px solid var(--divider);overflow-x:hidden}.changelog[_ngcontent-%COMP%]   .heading-container[_ngcontent-%COMP%]{display:flex;justify-content:space-between;margin-bottom:60px}.changelog[_ngcontent-%COMP%]   .heading-container[_ngcontent-%COMP%]   .heading-content[_ngcontent-%COMP%]{padding-bottom:101px;margin-top:0;max-width:512px}.changelog[_ngcontent-%COMP%]   .heading-container[_ngcontent-%COMP%]   .buttons-container[_ngcontent-%COMP%]{d
+---
+Changelog Match 18 at index 1436373:
+pace-7xl);border-bottom:1px solid var(--divider);overflow-x:hidden}.changelog[_ngcontent-%COMP%]   .heading-container[_ngcontent-%COMP%]{display:flex;justify-content:space-between;margin-bottom:60px}.changelog[_ngcontent-%COMP%]   .heading-container[_ngcontent-%COMP%]   .heading-content[_ngcontent-%COMP%]{padding-bottom:101px;margin-top:0;max-width:512px}.changelog[_ngcontent-%COMP%]   .heading-container[_ngcontent-%COMP%]   .buttons-container[_ngcontent-%COMP%]{display:flex;column-gap:4px}.changelog[_ngcontent-%COMP%]   .changelog-tabs[_ngcontent-%COMP%]{display:flex;gap:32px;margin-bottom:40
+---
+Changelog Match 19 at index 1436531:
+content:space-between;margin-bottom:60px}.changelog[_ngcontent-%COMP%]   .heading-container[_ngcontent-%COMP%]   .heading-content[_ngcontent-%COMP%]{padding-bottom:101px;margin-top:0;max-width:512px}.changelog[_ngcontent-%COMP%]   .heading-container[_ngcontent-%COMP%]   .buttons-container[_ngcontent-%COMP%]{display:flex;column-gap:4px}.changelog[_ngcontent-%COMP%]   .changelog-tabs[_ngcontent-%COMP%]{display:flex;gap:32px;margin-bottom:40px;border-bottom:1px solid var(--divider);width:100%}.changelog[_ngcontent-%COMP%]   .changelog-tabs[_ngcontent-%COMP%]   .tab-button[_ngcontent-%COMP%]{backg
+---
+Changelog Match 20 at index 1436669:
+nt-%COMP%]{padding-bottom:101px;margin-top:0;max-width:512px}.changelog[_ngcontent-%COMP%]   .heading-container[_ngcontent-%COMP%]   .buttons-container[_ngcontent-%COMP%]{display:flex;column-gap:4px}.changelog[_ngcontent-%COMP%]   .changelog-tabs[_ngcontent-%COMP%]{display:flex;gap:32px;margin-bottom:40px;border-bottom:1px solid var(--divider);width:100%}.changelog[_ngcontent-%COMP%]   .changelog-tabs[_ngcontent-%COMP%]   .tab-button[_ngcontent-%COMP%]{background:none;border:none;padding:12px 0 16px;font-size:1.125rem;font-family:inherit;font-weight:500;color:var(--theme-surface-on-surface-var
+---
+Changelog Match 21 at index 1436701:
+margin-top:0;max-width:512px}.changelog[_ngcontent-%COMP%]   .heading-container[_ngcontent-%COMP%]   .buttons-container[_ngcontent-%COMP%]{display:flex;column-gap:4px}.changelog[_ngcontent-%COMP%]   .changelog-tabs[_ngcontent-%COMP%]{display:flex;gap:32px;margin-bottom:40px;border-bottom:1px solid var(--divider);width:100%}.changelog[_ngcontent-%COMP%]   .changelog-tabs[_ngcontent-%COMP%]   .tab-button[_ngcontent-%COMP%]{background:none;border:none;padding:12px 0 16px;font-size:1.125rem;font-family:inherit;font-weight:500;color:var(--theme-surface-on-surface-variant);cursor:pointer;transition:
+---
+Changelog Match 22 at index 1436827:
+tent-%COMP%]{display:flex;column-gap:4px}.changelog[_ngcontent-%COMP%]   .changelog-tabs[_ngcontent-%COMP%]{display:flex;gap:32px;margin-bottom:40px;border-bottom:1px solid var(--divider);width:100%}.changelog[_ngcontent-%COMP%]   .changelog-tabs[_ngcontent-%COMP%]   .tab-button[_ngcontent-%COMP%]{background:none;border:none;padding:12px 0 16px;font-size:1.125rem;font-family:inherit;font-weight:500;color:var(--theme-surface-on-surface-variant);cursor:pointer;transition:all .2s ease;position:relative}.changelog[_ngcontent-%COMP%]   .changelog-tabs[_ngcontent-%COMP%]   .tab-button[_ngcontent-%CO
+---
+Changelog Match 23 at index 1436859:
+-gap:4px}.changelog[_ngcontent-%COMP%]   .changelog-tabs[_ngcontent-%COMP%]{display:flex;gap:32px;margin-bottom:40px;border-bottom:1px solid var(--divider);width:100%}.changelog[_ngcontent-%COMP%]   .changelog-tabs[_ngcontent-%COMP%]   .tab-button[_ngcontent-%COMP%]{background:none;border:none;padding:12px 0 16px;font-size:1.125rem;font-family:inherit;font-weight:500;color:var(--theme-surface-on-surface-variant);cursor:pointer;transition:all .2s ease;position:relative}.changelog[_ngcontent-%COMP%]   .changelog-tabs[_ngcontent-%COMP%]   .tab-button[_ngcontent-%COMP%]:hover{color:var(--theme-sur
+---
+Changelog Match 24 at index 1437133:
+und:none;border:none;padding:12px 0 16px;font-size:1.125rem;font-family:inherit;font-weight:500;color:var(--theme-surface-on-surface-variant);cursor:pointer;transition:all .2s ease;position:relative}.changelog[_ngcontent-%COMP%]   .changelog-tabs[_ngcontent-%COMP%]   .tab-button[_ngcontent-%COMP%]:hover{color:var(--theme-surface-on-surface)}.changelog[_ngcontent-%COMP%]   .changelog-tabs[_ngcontent-%COMP%]   .tab-button.active[_ngcontent-%COMP%]{color:var(--theme-surface-on-surface);font-weight:600}.changelog[_ngcontent-%COMP%]   .changelog-tabs[_ngcontent-%COMP%]   .tab-button.active[_ngconte
+---
+Changelog Match 25 at index 1437165:
+x 0 16px;font-size:1.125rem;font-family:inherit;font-weight:500;color:var(--theme-surface-on-surface-variant);cursor:pointer;transition:all .2s ease;position:relative}.changelog[_ngcontent-%COMP%]   .changelog-tabs[_ngcontent-%COMP%]   .tab-button[_ngcontent-%COMP%]:hover{color:var(--theme-surface-on-surface)}.changelog[_ngcontent-%COMP%]   .changelog-tabs[_ngcontent-%COMP%]   .tab-button.active[_ngcontent-%COMP%]{color:var(--theme-surface-on-surface);font-weight:600}.changelog[_ngcontent-%COMP%]   .changelog-tabs[_ngcontent-%COMP%]   .tab-button.active[_ngcontent-%COMP%]:after{content:"";posi
+---
+Changelog Match 26 at index 1437277:
+rsor:pointer;transition:all .2s ease;position:relative}.changelog[_ngcontent-%COMP%]   .changelog-tabs[_ngcontent-%COMP%]   .tab-button[_ngcontent-%COMP%]:hover{color:var(--theme-surface-on-surface)}.changelog[_ngcontent-%COMP%]   .changelog-tabs[_ngcontent-%COMP%]   .tab-button.active[_ngcontent-%COMP%]{color:var(--theme-surface-on-surface);font-weight:600}.changelog[_ngcontent-%COMP%]   .changelog-tabs[_ngcontent-%COMP%]   .tab-button.active[_ngcontent-%COMP%]:after{content:"";position:absolute;bottom:-1px;left:0;right:0;height:2px;background-color:var(--theme-surface-on-surface)}.changelog[
+---
+Changelog Match 27 at index 1437309:
+ease;position:relative}.changelog[_ngcontent-%COMP%]   .changelog-tabs[_ngcontent-%COMP%]   .tab-button[_ngcontent-%COMP%]:hover{color:var(--theme-surface-on-surface)}.changelog[_ngcontent-%COMP%]   .changelog-tabs[_ngcontent-%COMP%]   .tab-button.active[_ngcontent-%COMP%]{color:var(--theme-surface-on-surface);font-weight:600}.changelog[_ngcontent-%COMP%]   .changelog-tabs[_ngcontent-%COMP%]   .tab-button.active[_ngcontent-%COMP%]:after{content:"";position:absolute;bottom:-1px;left:0;right:0;height:2px;background-color:var(--theme-surface-on-surface)}.changelog[_ngcontent-%COMP%]   .rollout-no
+---
+Changelog Match 28 at index 1437438:
+color:var(--theme-surface-on-surface)}.changelog[_ngcontent-%COMP%]   .changelog-tabs[_ngcontent-%COMP%]   .tab-button.active[_ngcontent-%COMP%]{color:var(--theme-surface-on-surface);font-weight:600}.changelog[_ngcontent-%COMP%]   .changelog-tabs[_ngcontent-%COMP%]   .tab-button.active[_ngcontent-%COMP%]:after{content:"";position:absolute;bottom:-1px;left:0;right:0;height:2px;background-color:var(--theme-surface-on-surface)}.changelog[_ngcontent-%COMP%]   .rollout-notice[_ngcontent-%COMP%]{display:flex;align-items:center;gap:12px;padding:16px 20px;background:#e8f0fe;border-radius:var(--shape-c
+---
+Changelog Match 29 at index 1437470:
+face)}.changelog[_ngcontent-%COMP%]   .changelog-tabs[_ngcontent-%COMP%]   .tab-button.active[_ngcontent-%COMP%]{color:var(--theme-surface-on-surface);font-weight:600}.changelog[_ngcontent-%COMP%]   .changelog-tabs[_ngcontent-%COMP%]   .tab-button.active[_ngcontent-%COMP%]:after{content:"";position:absolute;bottom:-1px;left:0;right:0;height:2px;background-color:var(--theme-surface-on-surface)}.changelog[_ngcontent-%COMP%]   .rollout-notice[_ngcontent-%COMP%]{display:flex;align-items:center;gap:12px;padding:16px 20px;background:#e8f0fe;border-radius:var(--shape-corner-lg, 12px);margin-bottom:40
+---
+Changelog Match 30 at index 1437667:
+  .changelog-tabs[_ngcontent-%COMP%]   .tab-button.active[_ngcontent-%COMP%]:after{content:"";position:absolute;bottom:-1px;left:0;right:0;height:2px;background-color:var(--theme-surface-on-surface)}.changelog[_ngcontent-%COMP%]   .rollout-notice[_ngcontent-%COMP%]{display:flex;align-items:center;gap:12px;padding:16px 20px;background:#e8f0fe;border-radius:var(--shape-corner-lg, 12px);margin-bottom:40px}.changelog[_ngcontent-%COMP%]   .rollout-notice[_ngcontent-%COMP%]   .rollout-notice-icon[_ngcontent-%COMP%]{font-family:Google Symbols;font-size:1.25rem;color:#1a73e8;font-variation-settings:"F
+---
+
+=== DOWNLOAD DETAILS ===
+Download Match 1 at index 165911:
+mtype,longdesc,poster,src,xlink:href"),pG=hl("abbr,accesskey,align,alt,autoplay,axis,bgcolor,border,cellpadding,cellspacing,class,clear,color,cols,colspan,compact,controls,coords,datetime,default,dir,download,face,headers,height,hidden,hreflang,hspace,ismap,itemscope,itemprop,kind,label,lang,language,loop,media,muted,nohref,nowrap,open,preload,rel,rev,role,rows,rowspan,rules,scope,scrolling,shape,size,sizes,span,srclang,srcset,start,summary,tabindex,target,title,translate,type,usemap,valign,value,vspace,width"),hG=hl("aria-activedescendant,aria-atomic,aria-autocomplete,aria-busy,aria-checked,a
+---
+Download Match 2 at index 306789:
+rity:s,timeout:m,mode:l,redirect:c,credentials:u,referrer:f,integrity:p})}},cd=(function(n){return n[n.Sent=0]="Sent",n[n.UploadProgress=1]="UploadProgress",n[n.ResponseHeader=2]="ResponseHeader",n[n.DownloadProgress=3]="DownloadProgress",n[n.Response=4]="Response",n[n.User=5]="User",n})(cd||{}),gp=class{headers;status;statusText;url;ok;type;redirected;constructor(e,t=200,i="OK"){this.headers=e.headers||new Aa,this.status=e.status!==void 0?e.status:t,this.statusText=e.statusText||i,this.url=e.url||null,this.redirected=e.redirected,this.ok=this.status>=200&&this.status<300}},r1=class n extends 
+---
+Download Match 3 at index 306810:
+:l,redirect:c,credentials:u,referrer:f,integrity:p})}},cd=(function(n){return n[n.Sent=0]="Sent",n[n.UploadProgress=1]="UploadProgress",n[n.ResponseHeader=2]="ResponseHeader",n[n.DownloadProgress=3]="DownloadProgress",n[n.Response=4]="Response",n[n.User=5]="User",n})(cd||{}),gp=class{headers;status;statusText;url;ok;type;redirected;constructor(e,t=200,i="OK"){this.headers=e.headers||new Aa,this.status=e.status!==void 0?e.status:t,this.statusText=e.statusText||i,this.url=e.url||null,this.redirected=e.redirected,this.ok=this.status>=200&&this.status<300}},r1=class n extends gp{constructor(e={}){
+---
+Download Match 4 at index 313324:
+ror:new DOMException("Request timed out","TimeoutError"),status:s.status||0,statusText:s.statusText||"Request timeout",url:_||void 0});o.error(C)});let d=!1,m=g=>{d||(o.next(c()),d=!0);let _={type:cd.DownloadProgress,loaded:g.loaded};g.lengthComputable&&(_.total=g.total),t.responseType==="text"&&s.responseText&&(_.partialText=s.responseText),o.next(_)},h=g=>{let _={type:cd.UploadProgress,loaded:g.loaded};g.lengthComputable&&(_.total=g.total),o.next(_)};return s.addEventListener("load",u),s.addEventListener("error",f),s.addEventListener("timeout",p),s.addEventListener("abort",f),t.reportProgres
+---
+Download Match 5 at index 420749:
+ will not be tracked.")}push(e,t){let i=this.dataLayer;i&&(i.push(e),t&&i.push(t),console.debug("AnalyticsService: Pushed to dataLayer",e,t||""))}pagePush(e){this.push({event:"page_view",pagePath:e})}downloadCta(e,t){this.push({event:"download_cta",eventParams:{moduleName:e,pagePosition:t}},{eventParams:void 0})}download(e,t,i){this.push({event:"download",eventParams:{moduleName:e,pagePosition:t,downloadType:i}},{eventParams:void 0})}installExtension(e,t){this.push({event:"install_extension",eventParams:{moduleName:e,pagePosition:t}},{eventParams:void 0})}interestFormSubmit(e){this.push({event
+---
+Download Match 6 at index 420784:
+et i=this.dataLayer;i&&(i.push(e),t&&i.push(t),console.debug("AnalyticsService: Pushed to dataLayer",e,t||""))}pagePush(e){this.push({event:"page_view",pagePath:e})}downloadCta(e,t){this.push({event:"download_cta",eventParams:{moduleName:e,pagePosition:t}},{eventParams:void 0})}download(e,t,i){this.push({event:"download",eventParams:{moduleName:e,pagePosition:t,downloadType:i}},{eventParams:void 0})}installExtension(e,t){this.push({event:"install_extension",eventParams:{moduleName:e,pagePosition:t}},{eventParams:void 0})}interestFormSubmit(e){this.push({event:"interest_form_submit",eventParams
+---
+Download Match 7 at index 420863:
+ Pushed to dataLayer",e,t||""))}pagePush(e){this.push({event:"page_view",pagePath:e})}downloadCta(e,t){this.push({event:"download_cta",eventParams:{moduleName:e,pagePosition:t}},{eventParams:void 0})}download(e,t,i){this.push({event:"download",eventParams:{moduleName:e,pagePosition:t,downloadType:i}},{eventParams:void 0})}installExtension(e,t){this.push({event:"install_extension",eventParams:{moduleName:e,pagePosition:t}},{eventParams:void 0})}interestFormSubmit(e){this.push({event:"interest_form_submit",eventParams:{plantType:e}},{eventParams:void 0})}static \u0275fac=function(t){return new(t
+---
+Download Match 8 at index 420897:
+gePush(e){this.push({event:"page_view",pagePath:e})}downloadCta(e,t){this.push({event:"download_cta",eventParams:{moduleName:e,pagePosition:t}},{eventParams:void 0})}download(e,t,i){this.push({event:"download",eventParams:{moduleName:e,pagePosition:t,downloadType:i}},{eventParams:void 0})}installExtension(e,t){this.push({event:"install_extension",eventParams:{moduleName:e,pagePosition:t}},{eventParams:void 0})}interestFormSubmit(e){this.push({event:"interest_form_submit",eventParams:{plantType:e}},{eventParams:void 0})}static \u0275fac=function(t){return new(t||n)};static \u0275prov=ct({token:
+---
+Download Match 9 at index 420948:
+}downloadCta(e,t){this.push({event:"download_cta",eventParams:{moduleName:e,pagePosition:t}},{eventParams:void 0})}download(e,t,i){this.push({event:"download",eventParams:{moduleName:e,pagePosition:t,downloadType:i}},{eventParams:void 0})}installExtension(e,t){this.push({event:"install_extension",eventParams:{moduleName:e,pagePosition:t}},{eventParams:void 0})}interestFormSubmit(e){this.push({event:"interest_form_submit",eventParams:{plantType:e}},{eventParams:void 0})}static \u0275fac=function(t){return new(t||n)};static \u0275prov=ct({token:n,factory:n.\u0275fac,providedIn:"root"})};var iZ=[
+---
+Download Match 10 at index 425898:
+=!1;link="";variant="primary";compact=!1;dropdown=!1;icon;overrideClass="";href="";disabled=!1;target="_self";hasPopup=!1;ariaExpanded=!1;ariaControls;ariaLabel;analyticsEvent;moduleName;pagePosition;downloadType;planType;buttonHover=new ln;buttonFocus=new ln;buttonBlur=new ln;class="button";tabindex="-1";analyticsService=ne(Na);handleMouseEnter(){this.buttonHover.emit()}handleFocus(){this.buttonFocus.emit()}handleMouseLeave(){this.buttonBlur.emit()}handleBlur(){this.buttonBlur.emit()}focus(){this.buttonEl.nativeElement.focus()}handleButtonClick(e){if(this.analyticsEvent)switch(this.analyticsE
+---
+Download Match 11 at index 426309:
+}handleMouseLeave(){this.buttonBlur.emit()}handleBlur(){this.buttonBlur.emit()}focus(){this.buttonEl.nativeElement.focus()}handleButtonClick(e){if(this.analyticsEvent)switch(this.analyticsEvent){case"download-cta":this.moduleName&&this.pagePosition&&this.analyticsService.downloadCta(this.moduleName,this.pagePosition);break;case"download":this.moduleName&&this.pagePosition&&this.downloadType&&this.analyticsService.download(this.moduleName,this.pagePosition,this.downloadType);break;case"install-extension":this.moduleName&&this.pagePosition&&this.analyticsService.installExtension(this.moduleName,
+---
+Download Match 12 at index 426381:
+emit()}focus(){this.buttonEl.nativeElement.focus()}handleButtonClick(e){if(this.analyticsEvent)switch(this.analyticsEvent){case"download-cta":this.moduleName&&this.pagePosition&&this.analyticsService.downloadCta(this.moduleName,this.pagePosition);break;case"download":this.moduleName&&this.pagePosition&&this.downloadType&&this.analyticsService.download(this.moduleName,this.pagePosition,this.downloadType);break;case"install-extension":this.moduleName&&this.pagePosition&&this.analyticsService.installExtension(this.moduleName,this.pagePosition);break;case"interest-form-submit":this.planType&&this.
+---
+Download Match 13 at index 426439:
+uttonClick(e){if(this.analyticsEvent)switch(this.analyticsEvent){case"download-cta":this.moduleName&&this.pagePosition&&this.analyticsService.downloadCta(this.moduleName,this.pagePosition);break;case"download":this.moduleName&&this.pagePosition&&this.downloadType&&this.analyticsService.download(this.moduleName,this.pagePosition,this.downloadType);break;case"install-extension":this.moduleName&&this.pagePosition&&this.analyticsService.installExtension(this.moduleName,this.pagePosition);break;case"interest-form-submit":this.planType&&this.analyticsService.interestFormSubmit(this.planType);break;d
+---
+Download Match 14 at index 426490:
+alyticsEvent){case"download-cta":this.moduleName&&this.pagePosition&&this.analyticsService.downloadCta(this.moduleName,this.pagePosition);break;case"download":this.moduleName&&this.pagePosition&&this.downloadType&&this.analyticsService.download(this.moduleName,this.pagePosition,this.downloadType);break;case"install-extension":this.moduleName&&this.pagePosition&&this.analyticsService.installExtension(this.moduleName,this.pagePosition);break;case"interest-form-submit":this.planType&&this.analyticsService.interestFormSubmit(this.planType);break;default:console.warn(`Analytics event type ${this.an
+---
+Download Match 15 at index 426526:
+s.moduleName&&this.pagePosition&&this.analyticsService.downloadCta(this.moduleName,this.pagePosition);break;case"download":this.moduleName&&this.pagePosition&&this.downloadType&&this.analyticsService.download(this.moduleName,this.pagePosition,this.downloadType);break;case"install-extension":this.moduleName&&this.pagePosition&&this.analyticsService.installExtension(this.moduleName,this.pagePosition);break;case"interest-form-submit":this.planType&&this.analyticsService.interestFormSubmit(this.planType);break;default:console.warn(`Analytics event type ${this.analyticsEvent} not implemented.`);bre
+---
+Download Match 16 at index 426574:
+ervice.downloadCta(this.moduleName,this.pagePosition);break;case"download":this.moduleName&&this.pagePosition&&this.downloadType&&this.analyticsService.download(this.moduleName,this.pagePosition,this.downloadType);break;case"install-extension":this.moduleName&&this.pagePosition&&this.analyticsService.installExtension(this.moduleName,this.pagePosition);break;case"interest-form-submit":this.planType&&this.analyticsService.interestFormSubmit(this.planType);break;default:console.warn(`Analytics event type ${this.analyticsEvent} not implemented.`);break}}ngOnInit(){this.class+=` button-${this.varia
+---
+Download Match 17 at index 427946:
+",target:"target",hasPopup:"hasPopup",ariaExpanded:"ariaExpanded",ariaControls:"ariaControls",ariaLabel:"ariaLabel",analyticsEvent:"analyticsEvent",moduleName:"moduleName",pagePosition:"pagePosition",downloadType:"downloadType",planType:"planType"},outputs:{buttonHover:"buttonHover",buttonFocus:"buttonFocus",buttonBlur:"buttonBlur"},decls:3,vars:1,consts:[["buttonEl",""],[3,"routerLink","class","mobile-open","dropdown-open"],[3,"class","mobile-open","dropdown-open","target"],["type","button",3,"class","mobile-open","dropdown-open","disabled"],[3,"mouseenter","mouseleave","focus","blur","click"
+---
+Download Match 18 at index 427960:
+et",hasPopup:"hasPopup",ariaExpanded:"ariaExpanded",ariaControls:"ariaControls",ariaLabel:"ariaLabel",analyticsEvent:"analyticsEvent",moduleName:"moduleName",pagePosition:"pagePosition",downloadType:"downloadType",planType:"planType"},outputs:{buttonHover:"buttonHover",buttonFocus:"buttonFocus",buttonBlur:"buttonBlur"},decls:3,vars:1,consts:[["buttonEl",""],[3,"routerLink","class","mobile-open","dropdown-open"],[3,"class","mobile-open","dropdown-open","target"],["type","button",3,"class","mobile-open","dropdown-open","disabled"],[3,"mouseenter","mouseleave","focus","blur","click","routerLink"]
+---
+Download Match 19 at index 432254:
+button-text[_ngcontent-%COMP%]:disabled, .menu-toggle[_ngcontent-%COMP%]:disabled{color:var(--theme-button-states-on-disabled)}.button-compact[_ngcontent-%COMP%]{padding:6px 16px;min-block-size:36px}.download-button[_ngcontent-%COMP%], .button-nav[_ngcontent-%COMP%]{font-size:var(--cta-sm-size);line-height:var(--cta-sm-line-height);letter-spacing:var(--cta-sm-letter-spacing);font-weight:450}.button-nav[_ngcontent-%COMP%]{color:var(--theme-surface-on-surface-variant)}.button-nav[_ngcontent-%COMP%]:hover, .button-nav[_ngcontent-%COMP%]:focus-visible{color:#000;outline:none;background:var(--theme
+---
+Download Match 20 at index 434054:
+t n=this.ua,e=null;if(/windows/i.test(n)){let t=n.match(/Windows NT (\d+\.\d+)/i);return t&&t[1]?e=PZ(t[1]):e="Unknown Version",{name:"windows",version:e,buttonText:" for Windows",links:[{buttonText:"Download for x64",href:null},{buttonText:"Download for ARM64",href:null}]}}else if(/macintosh|mac os x/i.test(n)){let t=n.match(/Mac OS X (\d+[_.]\d+([_.]\d+)?)/i);return t&&t[1]?e="macOS "+t[1].replace(/_/g,"."):e="Unknown Version",{name:"mac",version:e,buttonText:" for MacOS",links:[{buttonText:"Download for Apple Silicon",href:null},{buttonText:"Download for Intel",href:null}]}}else return/linu
+---
+Download Match 21 at index 434096:
+let t=n.match(/Windows NT (\d+\.\d+)/i);return t&&t[1]?e=PZ(t[1]):e="Unknown Version",{name:"windows",version:e,buttonText:" for Windows",links:[{buttonText:"Download for x64",href:null},{buttonText:"Download for ARM64",href:null}]}}else if(/macintosh|mac os x/i.test(n)){let t=n.match(/Mac OS X (\d+[_.]\d+([_.]\d+)?)/i);return t&&t[1]?e="macOS "+t[1].replace(/_/g,"."):e="Unknown Version",{name:"mac",version:e,buttonText:" for MacOS",links:[{buttonText:"Download for Apple Silicon",href:null},{buttonText:"Download for Intel",href:null}]}}else return/linux/i.test(n)?(e="Generic/Unknown Distributi
+---
+Download Match 22 at index 434353:
+s x/i.test(n)){let t=n.match(/Mac OS X (\d+[_.]\d+([_.]\d+)?)/i);return t&&t[1]?e="macOS "+t[1].replace(/_/g,"."):e="Unknown Version",{name:"mac",version:e,buttonText:" for MacOS",links:[{buttonText:"Download for Apple Silicon",href:null},{buttonText:"Download for Intel",href:null}]}}else return/linux/i.test(n)?(e="Generic/Unknown Distribution",{name:"linux",version:e,buttonText:" for Linux",links:[{buttonText:"Download",href:null}]}):{name:"unknown",version:null,buttonText:"",links:[]}}};function Tl(n){if(n===void 0)throw new ReferenceError("this hasn't been initialised - super() hasn't been 
+---
+Download Match 23 at index 434405:
+_.]\d+)?)/i);return t&&t[1]?e="macOS "+t[1].replace(/_/g,"."):e="Unknown Version",{name:"mac",version:e,buttonText:" for MacOS",links:[{buttonText:"Download for Apple Silicon",href:null},{buttonText:"Download for Intel",href:null}]}}else return/linux/i.test(n)?(e="Generic/Unknown Distribution",{name:"linux",version:e,buttonText:" for Linux",links:[{buttonText:"Download",href:null}]}):{name:"unknown",version:null,buttonText:"",links:[]}}};function Tl(n){if(n===void 0)throw new ReferenceError("this hasn't been initialised - super() hasn't been called");return n}function CN(n,e){n.prototype=Objec
+---
+Download Match 24 at index 434568:
+ple Silicon",href:null},{buttonText:"Download for Intel",href:null}]}}else return/linux/i.test(n)?(e="Generic/Unknown Distribution",{name:"linux",version:e,buttonText:" for Linux",links:[{buttonText:"Download",href:null}]}):{name:"unknown",version:null,buttonText:"",links:[]}}};function Tl(n){if(n===void 0)throw new ReferenceError("this hasn't been initialised - super() hasn't been called");return n}function CN(n,e){n.prototype=Object.create(e.prototype),n.prototype.constructor=n,n.__proto__=e}var Ao={autoSleep:120,force3D:"auto",nullTargetWarn:1,units:{lineHeight:""}},Op={duration:.5,overwrit
+---
+Download Match 25 at index 632761:
+"}},{try_solutions:{sections:[{morphingParticle:"/assets/textures/icons/individual.png",title:"Available at no charge",subtitle:"For developers",description:"Achieve new heights",button:{routerLink:"/download",variant:"primary",buttonText:"Download"}},{morphingParticle:"/assets/textures/icons/cube.png",title:"Now Available!",subtitle:"For organizations",description:"Level up your entire team",button:{routerLink:"/docs/enterprise",variant:"secondary",buttonText:"Read More"}}]}},{landing:{features:[{title:"Antigravity 2.0",description:"Your command center to manage multiple local agents in paral
+---
+Download Match 26 at index 632801:
+article:"/assets/textures/icons/individual.png",title:"Available at no charge",subtitle:"For developers",description:"Achieve new heights",button:{routerLink:"/download",variant:"primary",buttonText:"Download"}},{morphingParticle:"/assets/textures/icons/cube.png",title:"Now Available!",subtitle:"For organizations",description:"Level up your entire team",button:{routerLink:"/docs/enterprise",variant:"secondary",buttonText:"Read More"}}]}},{landing:{features:[{title:"Antigravity 2.0",description:"Your command center to manage multiple local agents in parallel. Group conversations into Projects, 
+---
+Download Match 27 at index 1251797:
+%}.main-particles-component-section[_ngcontent-%COMP%]   .main-particles-container[_ngcontent-%COMP%]   canvas[_ngcontent-%COMP%]{position:absolute;width:100%;height:100%;top:0;left:0}"]})};var Zoe=["downloadSection"],Qoe=["description"],Koe=["cta"],Joe=["typedHeader"];function ese(n,e){if(n&1&&G(0,"app-button",14),n&2){let t=L();N("href",t.buttonLink)("buttonText",t.buttonText)}}function tse(n,e){if(n&1&&G(0,"app-button",16),n&2){let t=e.$implicit,i=e.$index,r=L(2);N("variant",i===0?"primary-inverse":"secondary-inverse")("buttonText",t.buttonText)("downloadType",r.userDeviceInfo.operatingSyst
+---
+Download Match 28 at index 1252153:
+buttonText",t.buttonText)}}function tse(n,e){if(n&1&&G(0,"app-button",16),n&2){let t=e.$implicit,i=e.$index,r=L(2);N("variant",i===0?"primary-inverse":"secondary-inverse")("buttonText",t.buttonText)("downloadType",r.userDeviceInfo.operatingSystem.name)}}function nse(n,e){if(n&1&&ke(0,tse,1,3,"app-button",16,St),n&2){let t=L();Ne(t.userDeviceInfo.operatingSystem.links)}}function ise(n,e){n&1&&G(0,"app-button",15)}var rc=class n{downloadSection;description;cta;typedHeader;titleText;buttonText;buttonLink="/download";userDeviceInfo=$i;registerAnimation(e){this.typedHeader.initialize(),e.from(this.
+---
+Download Match 29 at index 1252384:
+operatingSystem.name)}}function nse(n,e){if(n&1&&ke(0,tse,1,3,"app-button",16,St),n&2){let t=L();Ne(t.userDeviceInfo.operatingSystem.links)}}function ise(n,e){n&1&&G(0,"app-button",15)}var rc=class n{downloadSection;description;cta;typedHeader;titleText;buttonText;buttonLink="/download";userDeviceInfo=$i;registerAnimation(e){this.typedHeader.initialize(),e.from(this.downloadSection.nativeElement,{scale:.85,scrollTrigger:{trigger:this.downloadSection.nativeElement,start:"top 75%",end:"bottom bottom",scrub:!0,onEnter:()=>this.typedHeader.startTyping(),once:!0}})}static \u0275fac=function(t){retu
+---
+Download Match 30 at index 1252462:
+St),n&2){let t=L();Ne(t.userDeviceInfo.operatingSystem.links)}}function ise(n,e){n&1&&G(0,"app-button",15)}var rc=class n{downloadSection;description;cta;typedHeader;titleText;buttonText;buttonLink="/download";userDeviceInfo=$i;registerAnimation(e){this.typedHeader.initialize(),e.from(this.downloadSection.nativeElement,{scale:.85,scrollTrigger:{trigger:this.downloadSection.nativeElement,start:"top 75%",end:"bottom bottom",scrub:!0,onEnter:()=>this.typedHeader.startTyping(),once:!0}})}static \u0275fac=function(t){return new(t||n)};static \u0275cmp=ve({type:n,selectors:[["download-section"]],vie
+---
