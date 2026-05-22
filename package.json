@@ -1,0 +1,19 @@
+{
+  "name": "antigravity-landing-page",
+  "version": "1.0.0",
+  "description": "Interactive Anti-Gravity Cinematic Coming Soon Landing Page",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "echo 'Static hosting ready: no compilation required!'"
+  },
+  "keywords": [
+    "antigravity",
+    "static",
+    "webgl",
+    "threejs",
+    "cinematic"
+  ],
+  "author": "Antigravity",
+  "license": "ISC"
+}
