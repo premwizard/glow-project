@@ -1,1 +1,1 @@
-Basic Glow Landing Page
+Basic Glow Landing Page with animations
